@@ -8,6 +8,8 @@
 # Enter '!' to end the program
 # Enter '?' to show the correct answer and go to next turn
 
+
+# basic input argument checking (the vocabulary file)
 if [ ! -e $1 ]; then
     echo Source file ERROR: Wrong path, file doesn\'t exist. 1>&2
     exit 1
@@ -51,11 +53,12 @@ center_cursor()
 
 
 NLINES=`cat $1 | wc -l`
-
 ANSWER=''
+
+#main loop
 until [ "$ANSWER" = '!' ]; do
 
-
+    # extracting needed data from the file
     HALF_OF_VOCABULARY=`cat $1 | awk -v coin_toss=$COIN_TOSS -F[-] '{print $coin_toss}'`
     LINEN=`shuf -i 1-$NLINES -n 1` # random line number
     VOCABULARY_LINE=`cat $1 | sed -n "$LINEN"p`
@@ -77,7 +80,7 @@ until [ "$ANSWER" = '!' ]; do
 	    ;;
     esac
 
-
+    #loop for particular attempt - processing uder input and doing the logic
     COUNTER=2
     until [ "$ANSWER" = "$EXPECTING" ]; do
 	
@@ -109,7 +112,6 @@ until [ "$ANSWER" = '!' ]; do
 	fi
 	
 	(( COUNTER-- ))
-	
     done
 
     
