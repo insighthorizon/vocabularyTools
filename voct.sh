@@ -1,7 +1,7 @@
 #!/bin/bash
 # A tool for training vocabulary
 # Script takes .txt file containing vocabulary as argument
-# Vocabulary must contain lines in format:n
+# Vocabulary must contain lines in format:
 # 'word/phrase in one language'-'that in other language'
 
 # Argument: path to vucabulary text file
@@ -59,7 +59,6 @@ ANSWER=''
 until [ "$ANSWER" = '!' ]; do
 
     # extracting needed data from the file
-    HALF_OF_VOCABULARY=`cat $1 | awk -v coin_toss=$COIN_TOSS -F[-] '{print $coin_toss}'`
     LINEN=`shuf -i 1-$NLINES -n 1` # random line number
     VOCABULARY_LINE=`cat $1 | sed -n "$LINEN"p`
     COIN_TOSS=`shuf -i 1-2 -n 1`
