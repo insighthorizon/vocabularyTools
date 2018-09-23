@@ -49,14 +49,19 @@ center_cursor()
     COL_POSITION=$(( $COLS / 2 ))
     tput cup $ROW_POSITION $COL_POSITION #cursor placement    
 }
+time_to_die()
+{
+    tput sgr0 #turn off all the settings we just made
+    tput cup `tput lines` 0 #place the prompt at the bottom of the screen
+    exit 0
+}
 
-
-VOCDATA=`sed '/^$/d' $1` # strip the file of empty lines
-NLINES=`echo "$VOCDATA" | wc -l`
 ANSWER=''
-
 #main loop
 until [ "$ANSWER" = '!' ]; do
+
+    VOCDATA=`sed '/^$/d' $1` # strip the file of empty lines
+    NLINES=`echo "$VOCDATA" | wc -l`
 
     # extracting needed data from the file
     LINEN=`shuf -i 1-$NLINES -n 1` # random line number
@@ -87,7 +92,10 @@ until [ "$ANSWER" = '!' ]; do
 	if (( $COUNTER < 1 )); then
 	    formated_output "Right Answer: $EXPECTING"
 	    center_cursor
-	    read
+	    read BECKON # waiting for user input so he has time to read
+	    if [ "$BECKON" = '!' ]; then
+		time_to_die
+	    fi
 	    break
 	fi
 
@@ -101,15 +109,16 @@ until [ "$ANSWER" = '!' ]; do
 	read ANSWER
 	
 	if [ "$ANSWER" = '!' ]; then # i don't want to continue, deliberate end
-	    tput sgr0 #turn off all the settings we just made
-	    tput cup `tput lines` 0 #place the prompt at the bottom of the screen
-	    exit 0
+	    time_to_die
 	fi
 	
 	if [ "$ANSWER" = '?' ]; then # show me the right answer and go to next word
 	    formated_output "Right Answer: $EXPECTING"
 	    center_cursor
-	    read
+	    read BECKON # waiting for user input so he has time to read
+	    if [ "$BECKON" = '!' ]; then
+		time_to_die
+	    fi
 	    break
 	fi
 	
@@ -119,7 +128,4 @@ until [ "$ANSWER" = '!' ]; do
     
 done
 
-
-tput sgr0 #turn off all the settings we just made
-tput cup `tput lines` 0 #place the prompt at the bottom of the screen
-exit 0
+time_to_die
