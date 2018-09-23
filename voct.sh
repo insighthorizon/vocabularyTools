@@ -51,8 +51,8 @@ center_cursor()
 }
 
 
-
-NLINES=`cat $1 | wc -l`
+VOCDATA=`sed '/^$/d' $1` # strip the file of empty lines
+NLINES=`echo "$VOCDATA" | wc -l`
 ANSWER=''
 
 #main loop
@@ -60,7 +60,7 @@ until [ "$ANSWER" = '!' ]; do
 
     # extracting needed data from the file
     LINEN=`shuf -i 1-$NLINES -n 1` # random line number
-    VOCABULARY_LINE=`cat $1 | sed -n "$LINEN"p`
+    VOCABULARY_LINE=`echo "$VOCDATA" | sed -n "$LINEN"p`
     COIN_TOSS=`shuf -i 1-2 -n 1`
 
     EXPECTING=`echo "$VOCABULARY_LINE" | awk -v pick=$COIN_TOSS -F[-] '{print $pick}'` # this is the correct answer
@@ -79,12 +79,15 @@ until [ "$ANSWER" = '!' ]; do
 	    ;;
     esac
 
+
     #loop for particular attempt - processing uder input and doing the logic
     COUNTER=2
     until [ "$ANSWER" = "$EXPECTING" ]; do
 	
 	if (( $COUNTER < 1 )); then
 	    formated_output "Right Answer: $EXPECTING"
+	    center_cursor
+	    read
 	    break
 	fi
 
