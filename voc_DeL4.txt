@@ -1,44 +1,39 @@
-die Freizeit-volný čas
+
 faulenzen-lenošit
-die Musik-hudba
 willkommen-vítaný
 an Bord-na palubě
-das Schwimmbad-bazén
 die Bar-bar
 das Café-kavárna
 die Bibliothek-knihovna
 der Friseur-holič
 die Friseurin-kadeřnice
 frisieren-dělat účes/česat
-das Krankenhaus-nemocnice
-das Kino-kino
 können-moci
 das Deck-paluba
-der Film-film
 tauschen-vyměnit
 der Spaziergang-procházka
 der Passagier-pasažér
-jemand-někdo
+
 das Buch-kniha
 Fotos machen-fotografovat
-frůhsticken-snídat
+frühsticken-snídat
 aufstehen-vstávat
-fernsehen-dívat se na televizi
+
 oft-často
 bedienen-obsluhovat
-der Kellner-číšník
+nder Kellner-číšník
 schneiden-krájet/řezat/stříhat
 der Koch-kuchař
 der Bäcker-pekař
 müssen-muset
 dürfen-smět/moci
 leise-tichý/tiše
-mit bringen-přinést/vzít s sebou
+mitbringen-přinést/vzít s sebou
 stören-rušit
 verboten-zakázáno
 der Eintritt-vstup
 eintreten-vstoupit
-aus geben-vydat/utratit
+ausgeben-vydat/utratit
 duschen-sprchovat se
 zeichnen-kreslit
 das Schild-tabule
@@ -48,22 +43,21 @@ eben-právě/prostě
 dann-tak
 die Arbeit-práce
 zu Mittag essen-obědvat
-das Mittagessen-oběd
 zu Abend essen-večeřet
 das Abendessen-večeře
 der Abend-večer
 das Mittag-poledne
-das Essen-jídlo
+
 das Kleid-šaty
 anziehen-obléct
 träumen-snít
-die Zeitung-noviny
+
 vorbereiten-připravit
 aufräumen-uklízet
 aufschreiben-napsat/zapsat
-die Bestelling-objednávka
+die Bestellung-objednávka
 holen-přinést
-treffen-sejít se
+
 die Krankenschwester-zdravotní sestra
 Betten machen-ustlat
 das Fieber-horečka
@@ -80,13 +74,11 @@ der Juli-červenec
 die Gymnastik-gymnastika
 der Vortrag-přednáška
 der Mensch-člověk
-das Meer-moře
 die Mannschaft-družstvo
 gegen-proti
 das Finale-finále
 einladen-pozvat
 das Konzert-koncert
-die Diskothek-diskotéka
 geöffnet-otevřeno
 geschlossen-zavřeno
 stattfinden-konat se
@@ -100,13 +92,13 @@ der Zeit-čas
 vor-před
 nach-po
 die Mitternacht-půlnoc
-der Nacht-noc
+die Nacht-noc
 Sag mal...-Poslouchej...
 vorhaben-mít v plánu
 mitkommen-jít spolu
 treffen-sejít se
 In ordnung?-Ok?
-nächst-příští
+nächst-další
 früh-brzký
 der Montag-pondělí
 der Dienstag-úterý
@@ -140,14 +132,14 @@ offen-otevřený
 offen gesagt-upřímně řečeno
 bleiben-zůstat
 zu Hause-doma
-das Haus-dům
+
 wie immer-jako vždy
 wenigstens-alespoň
 wenig-málo
 die Dummheit-hloupost
 der Quatsch-blbost
 das Verb-sloveso
-der Zug-vlak
+
 abfahren-odjet
 die Bedeutung-význam
 der Brief-dopis

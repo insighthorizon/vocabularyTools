@@ -64,9 +64,9 @@ until [ "$ANSWER" = '!' ]; do
     NLINES=`echo "$VOCDATA" | wc -l`
 
     # extracting needed data from the file
-    LINEN=`shuf -i 1-$NLINES -n 1` # random line number
+    LINEN=$(($RANDOM % $NLINES + 1)) # random line number
     VOCABULARY_LINE=`echo "$VOCDATA" | sed -n "$LINEN"p`
-    COIN_TOSS=`shuf -i 1-2 -n 1`
+    COIN_TOSS=$(($RANDOM % 2 + 1))
 
     EXPECTING=`echo "$VOCABULARY_LINE" | awk -v pick=$COIN_TOSS -F[-] '{print $pick}'` # this is the correct answer
     case $COIN_TOSS in
