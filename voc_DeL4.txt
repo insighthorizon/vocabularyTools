@@ -3,7 +3,7 @@ faulenzen-lenošit
 willkommen-vítaný
 an Bord-na palubě
 die Bar-bar
-das Café-kavárna
+
 die Bibliothek-knihovna
 der Friseur-holič
 die Friseurin-kadeřnice
@@ -14,13 +14,14 @@ tauschen-vyměnit
 der Spaziergang-procházka
 der Passagier-pasažér
 
-das Buch-kniha
+
 Fotos machen-fotografovat
 frühsticken-snídat
 aufstehen-vstávat
 
 oft-často
 bedienen-obsluhovat
+die Bedienung-obsluha
 nder Kellner-číšník
 schneiden-krájet/řezat/stříhat
 der Koch-kuchař
@@ -41,7 +42,7 @@ aufmachen-otevírat
 aufhören-přestat
 eben-právě/prostě
 dann-tak
-die Arbeit-práce
+
 zu Mittag essen-obědvat
 zu Abend essen-večeřet
 das Abendessen-večeře
@@ -56,7 +57,7 @@ vorbereiten-připravit
 aufräumen-uklízet
 aufschreiben-napsat/zapsat
 die Bestellung-objednávka
-holen-přinést
+holen-dojít pro
 
 die Krankenschwester-zdravotní sestra
 Betten machen-ustlat
@@ -68,7 +69,7 @@ jetzt-teď
 der Verband-obvaz
 sehen-vidět
 zwischen-mezi
-die Veranstaltung-pořad
+die Veranstaltung-událost
 der Kalender-kalendář
 der Juli-červenec
 die Gymnastik-gymnastika
@@ -76,9 +77,9 @@ der Vortrag-přednáška
 der Mensch-člověk
 die Mannschaft-družstvo
 gegen-proti
-das Finale-finále
+
 einladen-pozvat
-das Konzert-koncert
+
 geöffnet-otevřeno
 geschlossen-zavřeno
 stattfinden-konat se
@@ -88,7 +89,7 @@ anfangen-začít
 spät-pozdě
 zurück-zpět
 die Uhrzeit-doba
-der Zeit-čas
+die Zeit-čas
 vor-před
 nach-po
 die Mitternacht-půlnoc
@@ -96,7 +97,7 @@ die Nacht-noc
 Sag mal...-Poslouchej...
 vorhaben-mít v plánu
 mitkommen-jít spolu
-treffen-sejít se
+
 In ordnung?-Ok?
 nächst-další
 früh-brzký
@@ -108,7 +109,7 @@ der Freitag-pátek
 der Samstag-sobota
 der Sonntag-neděle
 die Wohnung-byt
-die Woche-týden
+
 Montagnachmittag-pondělí odpoledne
 Montagabend-pondělí večer
 nie-nikdy
@@ -116,8 +117,6 @@ ansehen-dívat se na něco
 die Ansichtkarte-pohlednice
 lieb/nett-milý
 herzlich-srdečný
-der Grüß-pozdrav
-die Scheiße-hovno
 der Hochstapler-podvodník
 kriechen-podlézat
 herrlich-nádherný
@@ -127,7 +126,7 @@ meistens-většinou
 fast-téměř
 der Feierabend-volno
 vorschlagen-navrhnout
-das Theater-divadlo
+
 offen-otevřený
 offen gesagt-upřímně řečeno
 bleiben-zůstat
@@ -142,4 +141,4 @@ das Verb-sloveso
 
 abfahren-odjet
 die Bedeutung-význam
-der Brief-dopis
+bedeuten-znamenat

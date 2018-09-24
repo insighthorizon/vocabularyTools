@@ -52,3 +52,4 @@ transgression-přestupek
 conduct-chování
 offense-útok/urážka
 disregard-přehlížení
+flush-spláchnout

@@ -15,5 +15,16 @@ die Zeitung-noviny
 die Diskothek-diskotéka
 das Mittagessen-oběd
 das Meer-moře
+die Arbeit-práce
+das Café-kavárna
+treffen-sejít se
+das Konzert-koncert
+das Finale-finále
+der Grüß-pozdrav
+die Scheiße-hovno
+der Brief-dopis
+das Theater-divadlo
+das Buch-kniha
+die Woche-týden
 
 
