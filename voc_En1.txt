@@ -53,3 +53,5 @@ conduct-chování
 offense-útok/urážka
 disregard-přehlížení
 flush-spláchnout
+attenuate-tlumit
+attenuation-útlum
