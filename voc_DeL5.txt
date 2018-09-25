@@ -43,14 +43,13 @@ meinen-mínit
 aussehen-vypadat
 der Arikel-člen
 der Definitartikel-člen určitý
-das Pronomen-zájmeno
-das Definitpronomen-zájmeno určité
+
 hässlich-ošklivý
 bequem-pohodlný
 unbequem-nepohodlný
 
 Gluck mal...-Koukni se...
-glücklich-šťasný/šťastně
+glücklich-šťastný
 das Leben-život
 der Main-Mohan
 
@@ -60,7 +59,7 @@ das WC-WC
 der Garten-zahrada
 die Garage-garáž
 der Quadratmeter-čtvereční metr
-ab ... frei-volný od
+ab ... frei-volný od ...
 die Miete-nájem
 die Nebenkosten-vedlejší náklady
 neben-vedle
@@ -146,7 +145,7 @@ der Dreck-špína
 Dreck machen-znečistit
 die Wand-stěna
 außen-vnější
-die Politparole-politické heslo
+
 aufhängen-pověsit
 der Krach-rámus
 draußen-venku
@@ -196,7 +195,7 @@ die Sonne-slunce
 der Wagen-vůz
 leihen-půjčit
 teigen-ukázat
-wirklich-skutečný/skutečně
+wirklich-skutečně
 wohl-asi/nejspíš
 gemütlich-útulný
 doch-přece
