@@ -56,4 +56,3 @@ flush-spláchnout
 rudimentary-základní
 attenuate-tlumit
 attenuation-útlum
-
