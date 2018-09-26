@@ -152,7 +152,7 @@ draußen-venku
 der Hof-dvůr
 der Nachbar-soused
 das Appartment-garsoniéra
-der Vermieter-pronájemce
+
 verbieten-zakázat
 die Erlaubnis-povolení
 betreiben-provozovat
@@ -198,5 +198,15 @@ teigen-ukázat
 wirklich-skutečně
 wohl-asi/nejspíš
 gemütlich-útulný
-doch-přece
+doch-přeci
 wählen-vybrat
+die Treppe-schod
+das Geschoss-poschodí
+der Stock-patro
+stehlen-krást
+der Schrank-skříň
+der Vertrag-dohoda
+dann-pak
+der Vermieter-pronajímatel
+die Vemietung-pronájem
+vorher-předem
