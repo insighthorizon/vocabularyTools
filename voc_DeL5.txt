@@ -212,3 +212,4 @@ die Vemietung-pronájem
 vorher-předem
 anbei-přiložený
 die Liste-seznam
+die Umgebung-okolí
