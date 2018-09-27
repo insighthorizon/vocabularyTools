@@ -56,3 +56,5 @@ flush-spláchnout
 rudimentary-základní
 attenuate-tlumit
 encroach-zasahovat
+discourse-rozmluva
+consensus-souhlas
