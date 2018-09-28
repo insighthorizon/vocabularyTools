@@ -58,3 +58,17 @@ attenuate-tlumit
 encroach-zasahovat
 discourse-rozmluva
 consensus-souhlas
+confirmation-potvrzení
+ponder-přemítat
+propensity-sklon
+succumb-podlehnou
+fetid-páchnoucí
+emerge-vynořit se
+constitution-ústava
+constituency-volební obvod
+swamping-bažení
+obfuscate-poplést
+convolute-poplést
+convoluted-spletitý
+oddity-zvlášnost
+hubris-hubris
