@@ -63,7 +63,7 @@ ponder-přemítat
 propensity-sklon
 succumb-podlehnou
 fetid-páchnoucí
-emerge-vynořit se
+emerge-vyjevit se
 constitution-ústava
 constituency-volební obvod
 swamping-bažení
@@ -72,3 +72,28 @@ convolute-poplést
 convoluted-spletitý
 oddity-zvlášnost
 hubris-hubris
+spurious-falešný
+instill-vštípit
+facilitate-usnadnit
+asinine-stupidní
+inalienable-nezcizitelný
+alienation-odcizení (se)
+dispossession-zneužívání
+faculty-schopnost
+invoke-vyvolat
+connotation-vedlejší význam
+embody-ztělesňovat
+apprehensible-pochopitelný
+to object-namítat
+mutable-proměnlivý
+fidelity-věrnost
+peculate-zpronevěřit veřejné finance
+trail-stezka
+staging-režie
+stage-etapa
+omit-vynechat
+elusive-nepolapitelný
+amend-pozměnit
+clarity-jasnost
+whittle-ořezat
+tag-štítek
