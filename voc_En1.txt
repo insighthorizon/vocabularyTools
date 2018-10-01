@@ -97,3 +97,12 @@ amend-pozměnit
 clarity-jasnost
 whittle-ořezat
 tag-štítek
+apt-výstižný
+match-odpovídat
+exceed-překonat
+snippet-útržek
+gist-podstata
+cohesion-soudržnost
+conform-přizpůsobit
+shun-vyhýbat se
+origin-původ
