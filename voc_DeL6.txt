@@ -1,18 +1,18 @@
 die Krankheit-nemoc
-die Liebe-láska
-die Medizin-lék
+
+das Medikament-lék
 gesund-zdravý
 die Gesundheit-zdraví
-das höchste Gut
+das höchste Gut-nejvyšší dar
 die Stirn-čelo
 kühl-chladný
 der Fuß-chodidlo
 arm-chudý
 reich-bohatý
-der Doktor-doktor
+
 als-než
 der Kopf-hlava
-das Gesicht-bličej
+das Gesicht-obličej
 das Auge-oko
 das Ohr-ucho
 die Nase-nos
@@ -33,12 +33,12 @@ jeden Tag-každý den
 wehtun-bolet
 der Schmerz-bolest
 die Grippe-chřipka
-der Druchfall-průjem
+der Durchfall-průjem
 erkältet-nachlazený
 ankreuzen-zakřížkovat
 der Schnupfen-rýma
 der Husten-kašel
-das Bonbon-bonbon
+
 der Rat-rada
 dieser-tento
 der Tropfen-kapka
@@ -53,11 +53,9 @@ geehrt-vážený
 der Magen-žaludek
 nervös-nervózní
 sollen-mít povinnost
-möglich-možný
-unmöglich-nemožný
 gefärtlich-nebezpečný
 unbedingt-bezpodmínečný
-das Antibiotikum-antibiotikum
+
 vorsicht-opatrný
 der Kamillentee-heřmánkový čaj
 die Kompresse-obklad
@@ -94,28 +92,27 @@ die Ursache-příčina
 schwer-těžký
 das Licht-světlo
 der Schlaf-spánek
-die Angst-strach
+
 der Konflikt-konflikt
 der Tipp-tip
-heiß-horký
 die Luft-vzduch
-höchstens-vejvýš
+höchstens-nejvýš
 das Grad-stupeň
 der Honig-med
 stehen-stát
-das Papier-papír
+
 die Meditation-meditace
 die Erkältung-nachlazení
 die Kreislauf-krevní oběh
-das Blut-krev
+
 der Umlauf-oběh
-das Vitamin-vitamín
-rekonstruieren-rekonstruovat
+
+
 genau-přesný
 ein bisschen-trochu
 bestimmt-určitý
 stimmen-souhlasit
-das Ende-konec
+
 die Buchhalterin-účetní
 die Buchhaltung-účetnictví
 der Chef-šéf
@@ -123,16 +120,17 @@ der Mensch-člověk
 passieren-stát se
 die Geschichte-příběh
 nach unten-dolů
-bringen-nést
+
 schreien-křičet
 der Kollege-kolega
 plötzlich-náhlý
 gebrochen-zlomený
-auf-stehen-vstávat
+aufstehen-vstát
 wieder-znovu
-fallen-upadnout
+fallen-padnout
 der Winter-zima
 der Pullover-svetr
+
 der Handschuh-rukavice
 die Hose-kalhoty
 die Mütze-čepice
@@ -142,7 +140,7 @@ das Verbandszeug-obvazy
 das Pflaster-náplast
 die Krankenversicherungskarte-průkaz pojištěnce
 packen-balit
-ein/packen-zabalit
+einpacken-zabalit
 der Koffer-kufr
 der Bahnhof-nádraží
 mitnehmen-vzít s sebou
@@ -152,8 +150,9 @@ der Anfänger-začátečník
 der Unterricht-výuka
 das Unglück-neštěstí
 Unglücks...-nešťastný...
-der Kranke-nemocný
 eingebildete-imaginární
+
+
 Unsinn!-Nesmysl!
 der Appetit-apetit
 Doch!-Však ano!
@@ -163,9 +162,10 @@ der Durst-žízeň
 schwitzen-potit se
 laufen-běhat
 versichert-pojištěný
-schicken-poslat
+
 die Rechnung-účet
 das Gegenteil-opak
 das Schiff-loď
 die Übersicht-přehled
 die Form-forma
+die Klingel-zvonek
