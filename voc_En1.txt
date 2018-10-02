@@ -108,4 +108,10 @@ shun-vyhýbat se
 origin-původ
 obnoxious-protivný
 impose-vnucovat
-
+taut-napnutý
+lassitude-únava
+hedge-živý plot
+sob-vzlyk
+brine-roztok
+detention-zadržení
+tarry-meškat
