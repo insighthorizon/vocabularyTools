@@ -85,7 +85,6 @@ connotation-vedlejší význam
 embody-ztělesňovat
 apprehensible-pochopitelný
 to object-namítat
-mutable-proměnlivý
 fidelity-věrnost
 peculate-zpronevěřit veřejné finance
 trail-stezka
@@ -108,4 +107,19 @@ shun-vyhýbat se
 origin-původ
 obnoxious-protivný
 impose-vnucovat
-
+cough-kašlat
+refrain of something-zdržet se něčeho
+restrain-omezit
+abstain-abstinovat
+comply-dodržoat
+concurrent-souběžbý
+stream-proud
+aforementioned-výše zmíněných
+mutable-proměnlivý
+immutable-neměnný
+contractor-dodavatel
+amass-hromadit
+swirl-vířit
+amidst-uprostřed
+angst-úzkost
+feature-vlastnost
