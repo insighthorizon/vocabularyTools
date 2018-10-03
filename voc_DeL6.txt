@@ -1,171 +1,67 @@
-die Krankheit-nemoc
-
-das Medikament-lék
-gesund-zdravý
-die Gesundheit-zdraví
 das höchste Gut-nejvyšší dar
-die Stirn-čelo
-kühl-chladný
-der Fuß-chodidlo
-arm-chudý
-reich-bohatý
 
-als-než
-der Kopf-hlava
-das Gesicht-obličej
 das Auge-oko
-das Ohr-ucho
 die Nase-nos
-der Mund-ústa
 der Zahn-zub
-der Hals-krk
-der Arm-paže
-die Hand-ruka
-der Finger-prst
 der Busen-prsa
 die Brust-hruď
-der Bauch-břicho
+
 der Rücken-záda
 das Bein-noha
-das Knie-koleno
 der Zeh-prst u nohy
-jeden Tag-každý den
-wehtun-bolet
 der Schmerz-bolest
-die Grippe-chřipka
-der Durchfall-průjem
-erkältet-nachlazený
-ankreuzen-zakřížkovat
+
 der Schnupfen-rýma
-der Husten-kašel
 
 der Rat-rada
-dieser-tento
-der Tropfen-kapka
-die Tablette-tableta
 die Sprechstunde-ordinační hodiny
-beantworten-odpovědět
-das Thema-téma
-das Magazin-časopis
-ander-jiný
-der Leser-čtenář
 geehrt-vážený
 der Magen-žaludek
-nervös-nervózní
-sollen-mít povinnost
-gefärtlich-nebezpečný
 unbedingt-bezpodmínečný
-
-vorsicht-opatrný
-der Kamillentee-heřmánkový čaj
 die Kompresse-obklad
 das Medikament-lék
 die Pflanze-rostlina
-die Apotheke-lékárna
-die Drogerie-drogerie
-bedeuten-znamenat
-das Stress-stres
 das Geschwür-vřed
-schlimm-zlý
-täglich-denní
+bedingen-podmiňovat
 die Verstopfung-zácpa
-dick-tlustý
-Cholesterin-cholesterol
-die Margarine-margarín
+
 die Störung-porucha
-jeden Morgen-každé ráno
 gleich-stejný
-der Wecker-budík
-klingeln-zvonit
-müde-unavený
+
 schlapp-mdlý
-ausschlafen-vyspat se
-der vierte-čtvrtý
 davon-z toho
-mehr-více
 das Drittel-třetina
 die Qual-trápení
-einschlafen-usnout
 aufwachen-vzbudit se
 häufig-častý
 die Ursache-příčina
-schwer-těžký
-das Licht-světlo
-der Schlaf-spánek
-
-der Konflikt-konflikt
-der Tipp-tip
-die Luft-vzduch
 höchstens-nejvýš
-das Grad-stupeň
-der Honig-med
-stehen-stát
-
-die Meditation-meditace
 die Erkältung-nachlazení
-die Kreislauf-krevní oběh
-
+der Kreislauf-krevní oběh
 der Umlauf-oběh
-
-
-genau-přesný
+genau-přesně
 ein bisschen-trochu
 bestimmt-určitý
-stimmen-souhlasit
-
-die Buchhalterin-účetní
 die Buchhaltung-účetnictví
 der Chef-šéf
-der Mensch-člověk
-passieren-stát se
-die Geschichte-příběh
-nach unten-dolů
 
-schreien-křičet
-der Kollege-kolega
 plötzlich-náhlý
 gebrochen-zlomený
-aufstehen-vstát
 wieder-znovu
-fallen-padnout
-der Winter-zima
-der Pullover-svetr
 
-der Handschuh-rukavice
-die Hose-kalhoty
 die Mütze-čepice
-der Schal-šála
-die Brille-brýle
 das Verbandszeug-obvazy
 das Pflaster-náplast
-die Krankenversicherungskarte-průkaz pojištěnce
-packen-balit
-einpacken-zabalit
 der Koffer-kufr
-der Bahnhof-nádraží
-mitnehmen-vzít s sebou
-dabei haben-mít s sebou
-dauern-trvat
-der Anfänger-začátečník
+
 der Unterricht-výuka
-das Unglück-neštěstí
-Unglücks...-nešťastný...
 eingebildete-imaginární
-
-
 Unsinn!-Nesmysl!
-der Appetit-apetit
-Doch!-Však ano!
 zwar-sice
 furchtbar-hrozný
-der Durst-žízeň
 schwitzen-potit se
-laufen-běhat
 versichert-pojištěný
-
 die Rechnung-účet
 das Gegenteil-opak
 das Schiff-loď
 die Übersicht-přehled
-die Form-forma
-die Klingel-zvonek

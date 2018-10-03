@@ -130,3 +130,8 @@ sob-vzlyk
 brine-roztok
 detention-zadržení
 tarry-meškat
+impart-předat
+consent-souhlas
+whirl-vír
+dispute/wrangle-spor
+canon-měřítko
