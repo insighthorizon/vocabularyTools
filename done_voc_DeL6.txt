@@ -1,4 +1,4 @@
-sder Doktor-doktor
+der Doktor-doktor
 die Liebe-láska
 das Papier-papír
 bringen-nést
@@ -110,3 +110,59 @@ der Wecker-budík
 der Handschuh-rukavice
 der Husten-kašel
 dauern-trvat
+die Rechnung-účet
+der Unterricht-výuka
+das Verbandszeug-obvazy
+der Chef-šéf
+die Verstopfung-zácpa
+eingebildete-imaginární
+der Schmerz-bolest
+der Zeh-prst u nohy
+das Medikament-lék
+zwar-sice
+versichert-pojištěný
+der Koffer-kufr
+das Bein-noha
+die Nase-nos
+die Erkältung-nachlazení
+schlapp-mdlý
+die Mütze-čepice
+die Sprechstunde-ordinační hodiny
+der Zahn-zub
+die Buchhaltung-účetnictví
+die Pflanze-rostlina
+bedingen-podmiňovat
+die Störung-porucha
+davon-z toho
+das Drittel-třetina
+die Kompresse-obklad
+der Rücken-záda
+das Auge-oko
+gebrochen-zlomený
+unbedingt-bezpodmínečný
+häufig-častý
+der Magen-žaludek
+plötzlich-náhlý
+der Busen-prsa
+wieder-znovu
+der Rat-rada
+geehrt-vážený
+genau-přesně
+die Qual-trápení
+gleich-stejný
+höchstens-nejvýš
+das höchste Gut-nejvyšší dar
+das Pflaster-náplast
+die Brust-hruď
+der Schnupfen-rýma
+das Schiff-loď
+ein bisschen-trochu
+das Gegenteil-opak
+der Umlauf-oběh
+der Kreislauf-krevní oběh
+furchtbar-hrozný
+schwitzen-potit se
+Unsinn!-Nesmysl!
+aufwachen-vzbudit se
+die Übersicht-přehled
+bestimmt-určitý
