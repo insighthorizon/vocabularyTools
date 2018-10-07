@@ -62,3 +62,9 @@ rigor-přísnost
 conjecture-dohad
 contradiction-rozpor
 whim-rozmar
+rampart-hradba
+reckoning-zůčtování
+recall-odvolání
+dispense-vydat
+dispensable-postradatelný
+indispensable-nepostradatelný
