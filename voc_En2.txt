@@ -68,3 +68,7 @@ recall-odvolání
 dispense-vydat
 dispensable-postradatelný
 indispensable-nepostradatelný
+untenable-neudržitelný
+grasp-uchopit
+attain-dosáhnout
+gasp-lapat po dechu
