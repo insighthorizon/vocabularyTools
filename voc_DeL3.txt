@@ -93,7 +93,6 @@ oben-nahoře
 vergleichen-porovnat
 schmecken-chutnat
 fantastisch-fantastický
-doch-přece
 etwas-něco
 genug-dost
 das Abendessen-večeře
@@ -177,3 +176,57 @@ die Lieblingssorte-oblíbený druh
 die Marke-značka
 kennen-znát
 wichtig-důležitý
+sehr-velmi
+der Unterschied-rozdíl
+dunkel-tmavý
+man trinkt-pije se
+vor allem-především
+mischen-míchat
+stark-silný
+der Alkohol-alkohol
+normal-normální
+hell-světlý
+mild-jemný
+der Raum-místnost
+nur-pouze
+dort-tam
+da-tu
+erkennen-poznat
+sofort-okamžitě
+hoch-vysoký
+schlank-štíhlý
+der Export-export
+herb-trpký
+so-tak
+Bayern-Bavorsko
+die Republik-republika
+tschechisch-český
+besonders-zejména
+sondern-nýbrž
+überall-všude
+typisch-typický
+der Bauch-břicho
+eng-úzký
+der Weizen-pšenice
+vorwiegend-převážný
+doch-přece
+Nord...-severní...
+West...-západní...
+Ost...-východní
+Süd...-jižní...
+groß-velký
+unten-dole
+welcher-který
+die Situation-situace
+schwierig-obtížný
+der Gast-host
+das Würstchen-párek
+tut mir leid-je mi to líto
+Verzeihung!-Promiňte!
+überhaupt-vůbec
+nun-no
+das Beispiel-příklad
+zum Beispiel-například
+das Omelett-omeleta
+eintragen-zapsat
+die Tabelle-tabulka
