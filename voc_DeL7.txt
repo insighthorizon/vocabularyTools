@@ -123,4 +123,50 @@ Hilfe!-Pomoc!
 die Bank-lavice
 die Polizeistation-policejní stanice
 geben-dát
-
+die Geschäftsreise-služební cesta
+das Geschäft-obchod/záležitost
+die Reise-cesta
+wunderschön-překrásný
+diesmal-tentokrát
+gestern-vřera
+der Stephansdom-chrám sv. Štěpána
+Pech haben-mít smůlu
+der Vormieter-předchozí nájemník
+der Handwerker-řemeslník
+der Maler-malíř
+die Tür-dveře
+falsch-chybný
+die Farbe-barva
+der Tischler-truhlář
+das Loch-díra
+bohren-vrtat
+die Elektroleitung-elektrické vedení
+dei Leitung-vedení
+kaputt machen-rozbít
+die Firma-firma
+liefern-dodat
+reklamieren-reklamovat
+anschließen-připojit
+vorbeikommen-zastavit se
+bis-do/až
+bald-brzy
+der Schlauch-hadice
+der Boden-podlaha
+wischen-vytřít
+einsteigen-vstoupit
+tropfen-kapat
+durch-skrz
+die Decke-strop
+einschlagen-rozbít
+das Geräusch-hluk
+der Vorsitzender-předseda
+irgend(et)was-něco
+sicher-jistý
+nachdenken-přemýšlet
+denken-myslet
+Fragen stellen-klást otázky
+der Detektiv-detektiv
+fragen-ptát se
+beobachten-pozorovat
+die Notiz-poznámka
+Notieren machen-dělat si poznámky

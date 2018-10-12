@@ -91,4 +91,4 @@ brownout-pokles napětí
 excommunication-vyloučení
 renegade-odpadlík
 whilst-zatímco
-
+procedure-postup
