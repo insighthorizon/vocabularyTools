@@ -92,3 +92,7 @@ excommunication-vyloučení
 renegade-odpadlík
 whilst-zatímco
 procedure-postup
+stupor-strnulost
+proclivity-sklon
+impeding-hrozící
+impede-překážet
