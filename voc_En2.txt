@@ -96,3 +96,5 @@ stupor-strnulost
 proclivity-sklon
 impeding-hrozící
 impede-překážet
+salient-významný
+substantial-podstatný
