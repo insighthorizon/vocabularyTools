@@ -7,3 +7,13 @@ contingency-nahodilost
 eventuality-možná událost
 natter-klábosit
 gulf-záliv
+gauge-měřidlo
+caliper-posuvné měřítko
+flange-příruba
+tow-vléct
+aghast-zděšený
+sole-jediný
+cohesion-soundržnost
+cohesive-soudržný
+inadvertently-neúmyslně
+unassailable-neporazitelný
