@@ -17,3 +17,6 @@ cohesion-soundržnost
 cohesive-soudržný
 inadvertently-neúmyslně
 unassailable-neporazitelný
+abate-snížit
+extortion-vydírání
+arbitrary-libovolný
