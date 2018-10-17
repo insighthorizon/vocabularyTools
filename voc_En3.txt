@@ -20,3 +20,4 @@ unassailable-neporazitelný
 abate-snížit
 extortion-vydírání
 arbitrary-libovolný
+particular-konkrétní
