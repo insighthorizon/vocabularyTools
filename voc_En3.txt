@@ -21,3 +21,5 @@ abate-snížit
 extortion-vydírání
 arbitrary-libovolný
 particular-konkrétní
+toil-dřina
+bicker-hašteřit se
