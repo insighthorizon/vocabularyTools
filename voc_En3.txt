@@ -1,6 +1,6 @@
 peculiar-podivný
 abuse-zneužívání
-baffling-nepochopitelný
+baffling-matoucí
 baffle-zmást
 preoccupation-znepokojení
 contingency-nahodilost
@@ -38,3 +38,20 @@ infraction-porušení
 indemnify-odškodnit
 remarkable-pozoruhodný
 lustrious-chutný
+topple-zbavit se
+crosshatched-překřížený
+fluous-plynulý
+superfluous-nadbytečný
+upright-vzpřímený
+chuckle-chichot
+urban-městský
+suburban-předměstský
+indice-index
+scrutiny-kontrola
+plea-prosba
+seize-zabavit
+cease-přestat
+outburst-emoční výbuch
+withhold-zadržet
+ardent-horlivý
+whim-rozmar
