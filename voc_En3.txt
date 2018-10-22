@@ -55,3 +55,22 @@ outburst-emoční výbuch
 withhold-zadržet
 ardent-horlivý
 whim-rozmar
+tangible-hmatatelný
+intangible-nehmatatelný
+incite-podněcovat
+innocuous-něškodný
+envelope-obálka
+dim-matný/ztlumit
+circumvent-obejít
+ridge-hřbet
+cartridge-kazeta
+pivot-otáččet se/otočný čep
+conclusive-rozhodující
+incquiry-dotaz/vyšetřování
+mingle-míchat/smísit
+intermingle-promíchat
+perish-zahynout/zaniknout
+dawn-svítání
+advent-příchod události
+clunky-neohrabaný
+cumbersome-těžkopádný
