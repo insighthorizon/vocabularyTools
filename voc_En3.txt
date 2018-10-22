@@ -32,3 +32,5 @@ dissipation-rozptýlení
 impending-hrozící
 impend-be about to happen
 concerted-jointly arranged, planned, or carried out
+foolhardy-hloupý
+amenable-přizpůsobitelné/ochotný
