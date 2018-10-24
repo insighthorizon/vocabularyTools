@@ -15,3 +15,5 @@ ripe-zralý
 rub-obtíž
 pan-pánev/kritizovat
 pan out-vyjít
+scramble-shon/škrábat se někam
+clamber-šplhat/drápat se

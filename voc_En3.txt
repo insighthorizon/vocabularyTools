@@ -80,21 +80,21 @@ impend-be about to happen
 concerted-jointly arranged, planned, or carried out
 foolhardy-hloupý
 amenable-přizpůsobitelné/ochotný
-overstate
-impart
-sifting
-sieve
-thresh
-fatal
-prostrate
-shudder
-dispose
-sovereign
-consonant
-embody
-embodied
-disembodied
-atrocity
-purveyor
-comentiary
-scramble
+overstate-přehánět
+impart-sdělit
+sift-(pro)sít
+sieve-síto
+thresh-mlátit
+thrash-rozdrtit
+trash-odpadky
+fatal-fatální/osudný
+prostrate-padnout na zem tváří k zemi na znamení pokory před někým
+shudder-třást se
+shutter-závěrka
+dispose-likvidovat
+dispose of-zbavit se
+sovereign-suverénní/svrchovaný
+consonant-souhláska/v souladu
+disembody-uvolnit/oddělit
+atrocity-krutost
+purveyor-dodavatel/šiřitel
