@@ -17,3 +17,12 @@ pan-pánev/kritizovat
 pan out-vyjít
 scramble-shon/škrábat se někam
 clamber-šplhat/drápat se
+livelihood-živobytí
+stray-zbloudit
+astray-zbloudilý
+etch-leptat
+crux-hlavní bod
+tantalize-trápit
+delight-rozkoš
+instigate-podněcovat
+adhere-dodržovat
