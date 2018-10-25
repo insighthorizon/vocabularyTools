@@ -26,3 +26,13 @@ tantalize-trápit
 delight-rozkoš
 instigate-podněcovat
 adhere-dodržovat
+threat-ohrožení
+rebut-vyvrátit
+rebuttal-vyvrácení
+debunk-odhalit falešnou podstatu něčeho
+flutter-třepetání
+weary-unavený
+scold-nadávat
+scourge-metla
+spur-podnět
+parse-analyzovat
