@@ -36,3 +36,5 @@ scold-nadávat
 scourge-metla
 spur-podnět
 parse-analyzovat
+stipuation-ustanovení
+denote-označit
