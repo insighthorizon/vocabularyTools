@@ -38,3 +38,6 @@ spur-podnět
 parse-analyzovat
 stipuation-ustanovení
 denote-označit
+slight-mírný
+sloth-lenost
+ephicacy-efektivita
