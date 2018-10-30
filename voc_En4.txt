@@ -41,3 +41,6 @@ denote-označit
 slight-mírný
 sloth-lenost
 ephicacy-efektivita
+rampant-nekontrolovatelně rozšířený
+gleam-záblesk/lesk/třpyt
+transcribe-přepsat
