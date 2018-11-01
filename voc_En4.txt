@@ -44,3 +44,4 @@ ephicacy-efektivita
 rampant-nekontrolovatelně rozšířený
 gleam-záblesk/lesk/třpyt
 transcribe-přepsat
+stoke-přitápět
