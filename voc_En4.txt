@@ -72,3 +72,4 @@ indomitable-nezkrotný
 junction/juncture-spojení
 morsel-sousto
 edifice-velká budova
+stoke-přitápět
