@@ -73,3 +73,9 @@ junction/juncture-spojení
 morsel-sousto
 edifice-velká budova
 stoke-přitápět
+weasel-lasička
+lace-krajka
+curtain-záclona
+errand-pochůzka
+behalf-jménem
+tumble-padat
