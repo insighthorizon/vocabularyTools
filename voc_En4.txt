@@ -79,3 +79,6 @@ curtain-záclona
 errand-pochůzka
 behalf-jménem
 tumble-padat
+assert-tvrdit
+withdraw-odstoupit
+tuition-školné
