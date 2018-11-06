@@ -86,3 +86,11 @@ infringe-porušit
 assert-tvrdit
 withdraw-odstoupit
 tuition-školné
+pedestrian-pěší/chodec
+flop-neúspěch
+deft-šikovný
+recess-vybrání/výklenek
+dismal-tristní
+inclement-nevhodný
+breach-porušení
+customary-obvyklý
