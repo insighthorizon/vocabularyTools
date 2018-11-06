@@ -83,3 +83,6 @@ mainland-pevnina
 litigation-soudní spory
 arbitration-arbitráž
 infringe-porušit
+assert-tvrdit
+withdraw-odstoupit
+tuition-školné
