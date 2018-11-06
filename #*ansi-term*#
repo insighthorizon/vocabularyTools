@@ -186,4 +186,236 @@ remote: Resolving deltas: 100% (2/2), completed with 2 local objects.
 To https://github.com/insighthorizon/vocabularyTools.git
    69500c7..1056eb7  master -> master
 Branch 'master' set up to track remote branch 'master' from 'origin'.
-marek@marek-virtual-machine:~/Documents/vocabularyTools$ OD
+marek@marek-virtual-machine:~/Documents/vocabularyTools$ git status
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git checkout -- <file>..." to discard changes in working directory)
+
+        modified:   README.md
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+
+        #*ansi-term*#
+
+no changes added to commit (use "git add" and/or "git commit -a")
+marek@marek-virtual-machine:~/Documents/vocabularyTools$ git add *
+marek@marek-virtual-machine:~/Documents/vocabularyTools$ git status
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Changes to be committed:
+  (use "git reset HEAD <file>..." to unstage)
+
+        new file:   #*ansi-term*#
+        modified:   README.md
+
+marek@marek-virtual-machine:~/Documents/vocabularyTools$ git commit -m "edit9135"
+[master 7b7f1b4] edit9135
+ 2 files changed, 191 insertions(+), 2 deletions(-)
+ create mode 100644 #*ansi-term*#
+marek@marek-virtual-machine:~/Documents/vocabularyTools$ git push -u origin master
+iUsername for 'https://github.com': insighthorizon
+Password for 'https://iinsighthorizon@github.com': 
+remote: Invalid username or password.
+fatal: Authentication failed for 'https://github.com/insighthorizon/vocabularyTools.git/'
+marek@marek-virtual-machine:~/Documents/vocabularyTools$ git push -u origin master
+Username for 'https://github.com': insighthorizon
+Password for 'https://insighthorizon@github.com': 
+Enumerating objects: 6, done.
+Counting objects: 100% (6/6), done.
+Delta compression using up to 3 threads
+Compressing objects: 100% (4/4), done.
+Writing objects: 100% (4/4), 2.31 KiB | 788.00 KiB/s, done.
+Total 4 (delta 2), reused 0 (delta 0)
+remote: Resolving deltas: 100% (2/2), completed with 2 local objects.
+To https://github.com/insighthorizon/vocabularyTools.git
+   1056eb7..7b7f1b4  master -> master
+Branch 'master' set up to track remote branch 'master' from 'origin'.
+marek@marek-virtual-machine:~/Documents/vocabularyTools$ git status
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git checkout -- <file>..." to discard changes in working directory)
+
+        modified:   #*ansi-term*#
+
+no changes added to commit (use "git add" and/or "git commit -a")
+marek@marek-virtual-machine:~/Documents/vocabularyTools$ git pull
+remote: Enumerating objects: 13, done.
+remote: Counting objects: 100% (13/13), done.
+remote: Compressing objects: 100% (5/5), done.
+remote: Total 9 (delta 6), reused 7 (delta 4), pack-reused 0
+Unpacking objects: 100% (9/9), done.
+From https://github.com/insighthorizon/vocabularyTools
+   7b7f1b4..0cb214b  master     -> origin/master
+Updating 7b7f1b4..0cb214b
+Fast-forward
+ voc_En4.txt | 34 ++++++++++++++++++++++++++++++++++
+ 1 file changed, 34 insertions(+)
+marek@marek-virtual-machine:~/Documents/vocabularyTools$ git status
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git checkout -- <file>..." to discard changes in working directory)
+
+        modified:   #*ansi-term*#
+
+no changes added to commit (use "git add" and/or "git commit -a")
+marek@marek-virtual-machine:~/Documents/vocabularyTools$ rm \#\*ansi-term\*# 
+marek@marek-virtual-machine:~/Documents/vocabularyTools$ ls
+done_voc_DeL1.txt   done_voc_DeL2.txt~  done_voc_DeL6.txt  test                      verbs_perfektum_done.txt~  voc_De1.txt   voc_DeL3.txt  voc_DeL6.txt   voc_En1.txt  voc_En4.txt
+done_voc_DeL1.txt~  done_voc_DeL4.txt   LICENSE            test.txt                  verbs_perfektum.txt        voc_DeL1.txt  voc_DeL4.txt  voc_DeL7.txt   voc_En2.txt  voc_En4.txt~
+done_voc_DeL2.txt   done_voc_DeL5.txt   README.md          verbs_perfektum_done.txt  verbs_perfektum.txt~       voc_DeL2.txt  voc_DeL5.txt  voc_DeL7.txt~  voc_En3.txt  voct.sh
+marek@marek-virtual-machine:~/Documents/vocabularyTools$ git status
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Changes not staged for commit:
+  (use "git add/rm <file>..." to update what will be committed)
+  (use "git checkout -- <file>..." to discard changes in working directory)
+
+        deleted:    #*ansi-term*#
+
+no changes added to commit (use "git add" and/or "git commit -a")
+marek@marek-virtual-machine:~/Documents/vocabularyTools$ cd
+marek@marek-virtual-machine:~$ cd Documents/studynotes/
+marek@marek-virtual-machine:~/Documents/studynotes$ ls
+computational_structures_course  README.md
+marek@marek-virtual-machine:~/Documents/studynotes$ git status
+On branch master
+Your branch is up to date with 'origin/master'.
+
+nothing to commit, working tree clean
+marek@marek-virtual-machine:~/Documents/studynotes$ git pull
+Password for 'https://prasopes@bitbucket.org': 
+remote: Counting objects: 43, done.
+remote: Compressing objects: 100% (39/39), done.
+remote: Total 43 (delta 18), reused 0 (delta 0)
+Unpacking objects: 100% (43/43), done.
+From https://bitbucket.org/prasopes/studynotes
+   5daf223..e919612  master     -> origin/master
+Updating 5daf223..e919612
+Fast-forward
+ computational_structures_course/l1_information.org                     |   7 ------
+ computational_structures_course/l1_information.org~                    |   0
+ computational_structures_course/part1/c1pdfs_info_lecture.pdf          | Bin 0 -> 689221 bytes
+ computational_structures_course/part1/c2pdfs_digital_lecture.pdf       | Bin 0 -> 1564577 bytes
+ computational_structures_course/part1/c3pdfs_cmos_lecture.pdf          | Bin 0 -> 1280347 bytes
+ computational_structures_course/part1/c4pdfs_combinational_lecture.pdf | Bin 0 -> 1689512 bytes
+ computational_structures_course/part1/c5pdfs_sequential_lecture.pdf    | Bin 0 -> 1185351 bytes
+ computational_structures_course/part1/c6pdfs_fsm_lecture.pdf           | Bin 0 -> 910638 bytes
+ computational_structures_course/part1/c7pdfs_performance_lecture.pdf   | Bin 0 -> 2564333 bytes
+ computational_structures_course/part1/c8pdfs_tradeoffs_lecture.pdf     | Bin 0 -> 1466546 bytes
+ computational_structures_course/part1/l1_information.org               | 190 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+ computational_structures_course/part1/l1_information.org~              |  19 ++++++++++++++++
+ 12 files changed, 209 insertions(+), 7 deletions(-)
+ delete mode 100644 computational_structures_course/l1_information.org
+ delete mode 100644 computational_structures_course/l1_information.org~
+ create mode 100644 computational_structures_course/part1/c1pdfs_info_lecture.pdf
+ create mode 100644 computational_structures_course/part1/c2pdfs_digital_lecture.pdf
+ create mode 100644 computational_structures_course/part1/c3pdfs_cmos_lecture.pdf
+ create mode 100644 computational_structures_course/part1/c4pdfs_combinational_lecture.pdf
+ create mode 100644 computational_structures_course/part1/c5pdfs_sequential_lecture.pdf
+ create mode 100644 computational_structures_course/part1/c6pdfs_fsm_lecture.pdf
+ create mode 100644 computational_structures_course/part1/c7pdfs_performance_lecture.pdf
+ create mode 100644 computational_structures_course/part1/c8pdfs_tradeoffs_lecture.pdf
+ create mode 100644 computational_structures_course/part1/l1_information.org
+ create mode 100644 computational_structures_course/part1/l1_information.org~
+marek@marek-virtual-machine:~/Documents/studynotes$ git status
+On branch master
+Your branch is up to date with 'origin/master'.
+
+nothing to commit, working tree clean
+marek@marek-virtual-machine:~/Documents/studynotes$ cd ~/org/
+marek@marek-virtual-machine:~/org$ git status
+On branch master
+Your branch is up to date with 'origin/master'.
+
+nothing to commit, working tree clean
+marek@marek-virtual-machine:~/org$ git pull
+Password for 'https://prasopes@bitbucket.org': 
+remote: Counting objects: 9, done.
+remote: Compressing objects: 100% (9/9), done.
+remote: Total 9 (delta 6), reused 0 (delta 0)
+Unpacking objects: 100% (9/9), done.
+From https://bitbucket.org/prasopes/org
+   5b2f1e7..8fde380  master     -> origin/master
+Updating 5b2f1e7..8fde380
+Fast-forward
+ general_todos.org | 53 +++++++++++++++++++++++++++++++++++++++++++++++++----
+ 1 file changed, 49 insertions(+), 4 deletions(-)
+marek@marek-virtual-machine:~/org$ git status
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git checkout -- <file>..." to discard changes in working directory)
+
+        modified:   general_todos.org
+
+no changes added to commit (use "git add" and/or "git commit -a")
+marek@marek-virtual-machine:~/org$ git diff
+diff --git a/general_todos.org b/general_todos.org
+index 30ed8f4..b646027 100644
+--- a/general_todos.org
++++ b/general_todos.org
+@@ -208,7 +208,8 @@
+ 
+ * Philophy (Where i'am? How i know it? What should i do?)
+ ** Atlas Shrugged, the most epic book ever
+-*** TODO Část první: Rozpor neexistuje
++*** DONE Část první: Rozpor neexistuje
++    CLOSED: [2018-11-05 Po 06:59]
+ **** DONE Kapitola I - Motiv
+     CLOSED: [2018-10-14 Ne 14:47]
+ **** DONE Kapitola II - Řetěz
+@@ -227,7 +228,8 @@
+     CLOSED: [2018-10-14 Ne 19:28]
+ **** DONE Kapitola IX - Posvátné a hříšné
+     CLOSED: [2018-10-28 Ne 19:54]
+-**** TODO Kapitola X - Wayattova pochodeň
++**** DONE Kapitola X - Wayattova pochodeň
++     CLOSED: [2018-11-05 Po 06:59]
+ *** TODO Část druhá: Buď, anebo
+ *** TODO Část třetí: A je A
+ ** Study Ayn Rand Institute courses: https://campus.aynrand.org/
+marek@marek-virtual-machine:~/org$ git add *
+marek@marek-virtual-machine:~/org$ git status
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Changes to be committed:
+  (use "git reset HEAD <file>..." to unstage)
+
+        modified:   general_todos.org
+
+marek@marek-virtual-machine:~/org$ git commit -m "edit18485385"
+[master 315a54e] edit18485385
+ 1 file changed, 4 insertions(+), 2 deletions(-)
+marek@marek-virtual-machine:~/org$ git status
+On branch master
+Your branch is ahead of 'origin/master' by 1 commit.
+  (use "git push" to publish your local commits)
+
+nothing to commit, working tree clean
+marek@marek-virtual-machine:~/org$ git push -u origin master
+Password for 'https://prasopes@bitbucket.org': 
+Enumerating objects: 5, done.
+Counting objects: 100% (5/5), done.
+Delta compression using up to 3 threads
+Compressing objects: 100% (3/3), done.
+Writing objects: 100% (3/3), 332 bytes | 110.00 KiB/s, done.
+Total 3 (delta 2), reused 0 (delta 0)
+iTo https://bitbucket.org/prasopes/org.git
+   8fde380..315a54e  master -> master
+Branch 'master' set up to track remote branch 'master' from 'origin'.
+marek@marek-virtual-machine:~/org$ ~

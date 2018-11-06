@@ -79,3 +79,7 @@ curtain-záclona
 errand-pochůzka
 behalf-jménem
 tumble-padat
+mainland-pevnina
+litigation-soudní spory
+arbitration-arbitráž
+infringe-porušit
