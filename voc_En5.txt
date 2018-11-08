@@ -1,1 +1,12 @@
 prosecutor-žalobce
+turf-trávník
+scarify-trhat
+thatch-kštice
+bog-bažina
+smolder-doutnat
+peat-rašelina
+haste-spěch
+peatbog-rašeliniště
+preliminary-předběžný
+conscription-odvod
+tinker-bastlit
