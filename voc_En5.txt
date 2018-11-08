@@ -20,3 +20,4 @@ peatbog-rašeliniště
 preliminary-předběžný
 conscription-odvod
 tinker-bastlit
+divert-přesměrovat
