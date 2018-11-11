@@ -34,3 +34,6 @@ incentive-pobídka
 lenient-shovívavý
 leniency-shovívavost
 assess-posoudit
+reconcile-usmířit se
+breeze-vánek
+eager-dychtivý
