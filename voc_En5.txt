@@ -48,3 +48,5 @@ despondency-malomyslnost
 prone-náchylný
 pungent-pálivý(chutí/čichem)
 frugal-prostý,hospodárný
+ocurrence-výskyt
+colloquial-hovorový
