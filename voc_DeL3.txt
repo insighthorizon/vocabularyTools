@@ -51,7 +51,6 @@ mögen-mít rád
 glauben-myslet
 das Interview-interview
 markieren-označit
-üben-cvičit
 gern-rád
 lieber-raději
 manchmal-někdy
@@ -67,7 +66,7 @@ dei Zwiebel-cibule
 Haupt...-hlavní...
 Schwein...-vepřový...
 der Braten-pečeně
-rot-červený
+
 das Kohl-zelí
 das Steak-steak
 die Bohne-fazole
@@ -91,12 +90,11 @@ zusammen-společně
 getrennt-zvlášť
 oben-nahoře
 vergleichen-porovnat
-schmecken-chutnat
 fantastisch-fantastický
 etwas-něco
 genug-dost
 das Abendessen-večeře
-kochen-vačit
+kochen-vařit
 selbst-sám
 zuerst-nejprve
 die Vorspeise-předkrm
@@ -124,7 +122,7 @@ die Erdbeere-jahoda
 die Kirsche-třešeň
 die Himbeere-malina
 die Brombeere-ostružina
-die Paprika-paprika
+
 die Tomate-rajče
 das Öl-olej
 der Zucker-cukr
@@ -173,12 +171,10 @@ verschieden-různý
 die meisen-většina
 Lieblings...-oblíbený...
 die Lieblingssorte-oblíbený druh
-die Marke-značka
 kennen-znát
 wichtig-důležitý
 sehr-velmi
 der Unterschied-rozdíl
-dunkel-tmavý
 man trinkt-pije se
 vor allem-především
 mischen-míchat
@@ -188,9 +184,7 @@ normal-normální
 hell-světlý
 mild-jemný
 der Raum-místnost
-nur-pouze
 dort-tam
-da-tu
 erkennen-poznat
 sofort-okamžitě
 hoch-vysoký
