@@ -57,3 +57,6 @@ frown upon-mračit se
 tread-šlapat
 dispense-vydávat
 rebuff-odmítnout
+affair-záležitost
+tactile-hmatový
+acrimonious-prudký
