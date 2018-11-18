@@ -60,3 +60,11 @@ rebuff-odmítnout
 affair-záležitost
 tactile-hmatový
 acrimonious-prudký
+conflate-zamíchat
+dormant-dřímající
+succint-stručný
+pester-obtěžovat
+revoke-odvolat
+pander-kupčit
+quash-potlačit
+dissent-nesouhlas
