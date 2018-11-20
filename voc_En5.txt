@@ -24,7 +24,6 @@ divert-přesměrovat
 vast-obrovský
 flaky-bláznivý
 embolden-povzbudit
-shudder-třást se
 dressing down-kázání
 pledge-závazek/dát do zástavy
 fudge-fondán(cukrovinka)
@@ -68,3 +67,17 @@ revoke-odvolat
 pander-kupčit
 quash-potlačit
 dissent-nesouhlas
+sacrilege-svatokrádež
+sacrament-svátost
+expository-vysvětlující
+compulsory-povinný
+doddle-snadňoučký
+proliferation-rychlý růst počtu
+avert-odvrátit
+vow-slib
+righteous-spravedlivý
+omnious-zlověstný
+indignation-rozhořčení
+behoove-slušet se
+eavesdropping-odposlouchávání
+brusque-příkrý
