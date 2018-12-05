@@ -23,3 +23,5 @@ pitch-rozteč
 steep-strmý
 supplication-prosba
 twinkle-blikat
+supernumerary-nadpočetný
+vicinity-blízké okolí
