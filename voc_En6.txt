@@ -25,3 +25,5 @@ supplication-prosba
 twinkle-blikat
 supernumerary-nadpočetný
 vicinity-blízké okolí
+impeccable-bezvadný
+heist-loupež
