@@ -25,3 +25,58 @@ supplication-prosba
 twinkle-blikat
 supernumerary-nadpočetný
 vicinity-blízké okolí
+brevity-stručnost
+enumerate-vyčíslit
+vovel-samohláska
+obtuse-tupý
+advocate-zastávat/zastánce
+stifle-potlačit
+corollary-důsledek
+revulsion-odpor
+antithesis-protiklad
+preset-přednastavení
+concept-pojem
+impeccable-bezchybný
+ambivalent-dvojaký
+besmirch-pošpinit
+wacky-podivně zábavný
+smear-rozmazat
+constitute-představovat/utvářet
+wedlock-manželství
+appaling-otřesný
+pariah-vyvrhel
+indolence-lehkomyslnost
+subsistence-živobytí
+scapegoat-obětní beránek
+invoice-faktura
+unwinding-odvíjení
+mooch-fákat se
+tussle-zápas
+wrangle-hádka
+salience-význam
+laden-naložený
+ostensible-zdánlivý
+placate-uklidnit
+defoliate-odlistit
+gestation-těhotenství
+incendiary-zápalný
+stage-uskotečnit
+coup-puč
+diligent-pilný
+intrusion-vniknutí
+acquisition-získávání
+pretension-předpětí
+peril-nebezpečí
+tenant-nájemce
+adamant-nústupný
+evict-vystěhovat
+closure-uzavření
+cinder-oharek
+falsify-falšovat
+hunch-tušení
+assiduous-pilný
+peddler-podomní obchodník
+bestow-propůjčit/udělit
+punitive-trestné
+impunity-beztrestnost
+reprisal-odveta
