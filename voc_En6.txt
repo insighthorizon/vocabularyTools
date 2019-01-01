@@ -25,6 +25,7 @@ supplication-prosba
 twinkle-blikat
 supernumerary-nadpočetný
 vicinity-blízké okolí
+<<<<<<< HEAD
 brevity-stručnost
 enumerate-vyčíslit
 vovel-samohláska
@@ -80,3 +81,6 @@ bestow-propůjčit/udělit
 punitive-trestné
 impunity-beztrestnost
 reprisal-odveta
+impeccable-bezvadný
+heist-loupež
+lump-kus
