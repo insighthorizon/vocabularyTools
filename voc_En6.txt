@@ -87,4 +87,5 @@ lump-kus
 clause-doložka
 amendment-pozměňovací návrh
 phony-falešný
-
+friar-mnich/fráter
+insolent-drzý
