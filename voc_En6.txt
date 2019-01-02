@@ -84,3 +84,7 @@ reprisal-odveta
 impeccable-bezvadný
 heist-loupež
 lump-kus
+clause-doložka
+amendment-pozměňovací návrh
+phony-falešný
+
