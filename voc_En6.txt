@@ -88,3 +88,5 @@ clause-doložka
 amendment-pozměňovací návrh
 phony-falešný
 latch-západka
+friar-mnich/fráter
+insolent-drzý
