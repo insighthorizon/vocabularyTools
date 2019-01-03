@@ -87,4 +87,4 @@ lump-kus
 clause-doložka
 amendment-pozměňovací návrh
 phony-falešný
-
+latch-západka
