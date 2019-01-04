@@ -9,7 +9,7 @@ unabashedly-neochvějně
 expediency-účelnost
 bewildered-zmatený
 fillisionly-úplně
-chariot-chariot
+chariot-válečný vůz
 placid-klidný
 warranted-zaručeno
 scrupulous-skeptický
@@ -21,10 +21,10 @@ impervious-nepropustný
 infatuation-poblouznění
 serenity-klid
 earnestness-vážnost
-dedication-obětavost
+dedication-věnování
 layperson-laik
 vicious-zlý
-tenet-tenet
+tenet-zásada
 mawkish-nechutný
 feeble-slabý
 fable-bajka
@@ -61,14 +61,12 @@ consensus-souhlas
 confirmation-potvrzení
 ponder-přemítat
 propensity-sklon
-succumb-podlehnou
+succumb-podlehnout
 fetid-páchnoucí
 emerge-vyjevit se
 constitution-ústava
 constituency-volební obvod
 swamping-bažení
-obfuscate-poplést
-convolute-poplést
 convoluted-spletitý
 oddity-zvlášnost
 hubris-hubris

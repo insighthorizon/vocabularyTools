@@ -25,7 +25,6 @@ supplication-prosba
 twinkle-blikat
 supernumerary-nadpočetný
 vicinity-blízké okolí
-<<<<<<< HEAD
 brevity-stručnost
 enumerate-vyčíslit
 vovel-samohláska
@@ -37,7 +36,6 @@ revulsion-odpor
 antithesis-protiklad
 preset-přednastavení
 concept-pojem
-impeccable-bezchybný
 ambivalent-dvojaký
 besmirch-pošpinit
 wacky-podivně zábavný
@@ -90,3 +88,13 @@ phony-falešný
 latch-západka
 friar-mnich/fráter
 insolent-drzý
+devotion-oddanost
+flaccid-ochablý
+pertinent-podstatný
+obligation-závazek
+impertinent-drzý
+parole-čestné slovo
+parrot-papouškovat
+allegiance-věrnost
+suds-mýdlový roztok
+foam-pěna
