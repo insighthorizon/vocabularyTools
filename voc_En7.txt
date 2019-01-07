@@ -61,5 +61,17 @@ yield-vynášet/výnos/podlehnout
 ductile-tvárný
 perennial-trvalý
 wimp-slaboch
-credulity-důvěřivostg
+credulity-důvěřivost
 consecutive-po sobě jdoucí
+prissy-upjatý
+counterfeit-padělaný
+gross-hrubý
+drought-sucho
+marine-mořský
+pluck-utrhnout
+plucky-kurážný
+clutch-spojka
+grueling-vysilující
+tenacity-houževnatost
+mediate-zprostředkovat
+mediated-zprostředkovaný
