@@ -63,6 +63,7 @@ perennial-trvalý
 wimp-slaboch
 credulity-důvěřivost
 consecutive-po sobě jdoucí
+<<<<<<< HEAD
 prissy-upjatý
 counterfeit-padělaný
 gross-hrubý
@@ -75,3 +76,7 @@ grueling-vysilující
 tenacity-houževnatost
 mediate-zprostředkovat
 mediated-zprostředkovaný
+avarice-lakomství
+replete-naplněný
+relegate-odsunout/degradovat
+consign-poslat člověka/svěřit
