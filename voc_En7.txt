@@ -63,3 +63,7 @@ perennial-trvalý
 wimp-slaboch
 credulity-důvěřivostg
 consecutive-po sobě jdoucí
+avarice-lakomství
+replete-naplněný
+relegate-odsunout/degradovat
+consign-poslat člověka/svěřit
