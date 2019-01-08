@@ -97,3 +97,4 @@ trip-výlet
 exquisite-vynikající
 onslaught-prudký útok
 recall-vzpomínat
+numeral-číslovka
