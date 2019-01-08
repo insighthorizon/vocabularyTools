@@ -63,7 +63,6 @@ perennial-trvalý
 wimp-slaboch
 credulity-důvěřivost
 consecutive-po sobě jdoucí
-<<<<<<< HEAD
 prissy-upjatý
 counterfeit-padělaný
 gross-hrubý
@@ -80,3 +79,21 @@ avarice-lakomství
 replete-naplněný
 relegate-odsunout/degradovat
 consign-poslat člověka/svěřit
+celestial-nebeský
+effigy-zpodobení
+pillar-pilíř
+stellar-hvězdný
+plateau-náhorní rovina
+influence-vliv
+prelude/overture-předehra
+freewheeling-volnoběh
+gaudy-křiklavý
+plunge-ponořit se
+immerse-pohroužit se
+turmoil-zmatek/vřava
+tray-zásobník
+pot-hrnec/konvice
+trip-výlet
+exquisite-vynikající
+onslaught-prudký útok
+recall-vzpomínat
