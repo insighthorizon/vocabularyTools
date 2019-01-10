@@ -1,22 +1,42 @@
 ordinal-pořadový
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 predate-předcházet(událost)
+frolic-dovádět
+establish-zřídit
+facet-stránka/aspekt
+abduct-unést
+abduction-únos
+propound-přednést myšlenku
+disparate-nesourodý
+miscellany-směsice
+tentative-předběžný/orientační
+thrill-prudké vzrušení
+admission-přijetí
+arcane-tajuplný
+fiery-ohnivý
+humility-
+surf-příboj/vlnobití
+anxiety-úzkost
+uncanny-podivný
+aggrandize-zveličovat
+lucid-průzračný
+lucent-zářný
+scent-vůně
+suffuse-rozlít/zalít
+deluge-záplava
+venal-úplatný
+skew-zkreslit
+punctuation-interpunkce
+punctuate-rozdělit na intervaly
+punctual-dochvilný
+mirage-fata morgána
+venture-riskantní podnik
+prompt-přimět/výzva
+peril-nebezpečí/riziko
+incite-podněcovat
+stir up-vzbudit
+fawn-plavý
+nubile-na vdávání
+superficial-povrchní
+glam-okouzlující
+introspection-sebepozorování
+severe-vážný

@@ -59,7 +59,7 @@ infer-usoudit
 inference-odvození
 detract-znehodnotit
 rigor-přísnost
-conjecture-dohad
+conjecture-doměnka
 contradiction-rozpor
 whim-rozmar
 rampart-hradba
