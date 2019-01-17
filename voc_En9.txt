@@ -58,3 +58,4 @@ defendant-žalovaný
 plaintiff-žalobce/navrhovatel
 prosecutor-žalobce/prokurátor
 attorney/barrister-advokát
+spinster-přadlena/stará pana
