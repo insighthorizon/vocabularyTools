@@ -37,3 +37,24 @@ outline-nastínit
 overlay-potah/pokrýt
 consequently-tudíž
 likewise-rovněž
+burly-statný
+hurly burly-vřava
+curb-omezit/obrubník
+choir-sbor
+wail-naříkat
+cunning-mazanost
+slander-pomlouvat
+hoarse-chraptivý
+disparage-znevažovat
+disparagingly-pohrdavě
+cartridge-patrona/kazeta
+carriage-kočár
+cart-vozík
+inept-nejapný
+bungle-zvorat
+persuade-přesvědčit
+adverse-nepříznivý
+defendant-žalovaný
+plaintiff-žalobce/navrhovatel
+prosecutor-žalobce/prokurátor
+attorney/barrister-advokát
