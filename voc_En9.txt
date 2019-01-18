@@ -59,3 +59,6 @@ plaintiff-žalobce/navrhovatel
 prosecutor-žalobce/prokurátor
 attorney/barrister-advokát
 spinster-přadlena/stará pana
+forego-předcházet
+forgo/forego-vzdát se něčeho
+forsake-opustit někoho/něco
