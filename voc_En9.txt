@@ -74,3 +74,10 @@ spark-jiskra
 stymie-(za)bránit/překážet
 barrel-hlaveň
 entrap-polapit
+appropriate-odpovídající
+abbreviation-zkratka
+proficiency-zběhlost
+dent-důlek
+receptacle-nádoba
+pasture-pastvine
+fence-plot

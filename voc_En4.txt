@@ -62,7 +62,7 @@ propose-navrhnout
 suppose-předpokládat
 heartening-povzbuzující
 disheartening-deprimující
-abide-dodržovat
+abide-dodržet/podřídit se
 amend-pozměnit
 amendment-dodatek/pozměňovací návrh
 contempt-pohrdání
