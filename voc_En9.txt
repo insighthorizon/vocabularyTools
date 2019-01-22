@@ -81,3 +81,9 @@ dent-důlek
 receptacle-nádoba
 pasture-pastvine
 fence-plot
+gaggle-houf/chumel
+haggle-smlouvat
+clemency-milost/shovívavost
+receptivity-vnímavost
+perfiduous-proradný
+breadcrumb-strouhanka
