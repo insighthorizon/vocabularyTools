@@ -79,5 +79,6 @@ abbreviation-zkratka
 proficiency-zběhlost
 dent-důlek
 receptacle-nádoba
-pasture-pastvine
+pasture-pastvina
 fence-plot
+contiguous-sousedící
