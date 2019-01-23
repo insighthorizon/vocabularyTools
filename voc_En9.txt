@@ -79,8 +79,9 @@ abbreviation-zkratka
 proficiency-zběhlost
 dent-důlek
 receptacle-nádoba
-pasture-pastvine
+pasture-pastvina
 fence-plot
+contiguous-sousedící
 gaggle-houf/chumel
 haggle-smlouvat
 clemency-milost/shovívavost
@@ -88,3 +89,7 @@ receptivity-vnímavost
 perfiduous-proradný
 breadcrumb-strouhanka
 furnish-zařídit/dodat
+indemnification-odškodnění
+enlist-narukovat/získat
+appeasement-uklidnění/ústupek
+appease-usmířit/uchlácholit
