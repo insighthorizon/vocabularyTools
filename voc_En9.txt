@@ -93,3 +93,7 @@ indemnification-odškodnění
 enlist-narukovat/získat
 appeasement-uklidnění/ústupek
 appease-usmířit/uchlácholit
+concise-stručný
+supple-ohebný
+churn out-(vy)chrlit
+lurch-zavrávorat/zmítat se
