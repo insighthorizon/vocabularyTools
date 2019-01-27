@@ -36,3 +36,4 @@ soar-stoupnout
 sear-sežehnout
 shear-ostříhat
 skid-smyk
+disgruntled-naštvaně nespokojený
