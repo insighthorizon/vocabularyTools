@@ -37,3 +37,5 @@ sear-sežehnout
 shear-ostříhat
 skid-smyk
 disgruntled-naštvaně nespokojený
+inexplicable-nevysvětlitelný
+salvific-spasující
