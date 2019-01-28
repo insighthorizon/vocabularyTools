@@ -9,3 +9,9 @@ crow-chvástat se
 stake-sázka
 rail againts-ohradit se proti
 blow-úder/foukat
+alacrity-ochota/horlivost
+provision-poskytnutí/ustanovení
+preempt-předejít/zabránit
+perpetuate-zachovat
+tether-uvázat/přivázat
+unanimous-jednotný
