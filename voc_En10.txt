@@ -9,6 +9,12 @@ crow-chvástat se
 stake-sázka
 rail againts-ohradit se proti
 blow-úder/foukat
+alacrity-ochota/horlivost
+provision-poskytnutí/ustanovení
+preempt-předejít/zabránit
+perpetuate-zachovat
+tether-uvázat/přivázat
+unanimous-jednotný
 inequity-nerovnost
 inquiry-dotaz/vyšetřování
 iniquity-hanebnost
@@ -39,3 +45,16 @@ skid-smyk
 disgruntled-naštvaně nespokojený
 inexplicable-nevysvětlitelný
 salvific-spasující
+compel-přinutit
+befuddled-popletený/zmatený
+sturdy-robustní/statný
+studious-pečlivý
+dumbfound-ohromit
+astonish-udivit
+mutter-mumlat
+dupe-napálit
+litter-smetí/stelivo/rozházet
+proselytise-obracet na víru/přesvědčovat
+strata-vrstva/třída
+flock-hejno/stádo/houf
+congestion-ucpání
