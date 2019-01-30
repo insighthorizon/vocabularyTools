@@ -5,7 +5,7 @@ cabbage-zelí
 confection-cukroví
 confections-cukrovinky
 construe-vykládat
-purport-tvrdit
+purport-znamenat/význam
 entail-znamenat
 adjunct-doplněk
 acquaintance-známost
