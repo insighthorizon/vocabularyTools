@@ -83,3 +83,5 @@ rebuke-pokárat
 anodyne-mdlý/nevýrazný
 sidle-přikrást se
 pestilence-zhoubná nákaza/mor
+lather-namydlid/mydliny
+janitor-vrátný
