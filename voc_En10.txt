@@ -90,5 +90,11 @@ sidle-přikrást se
 pestilence-zhoubná nákaza/mor
 lather-namydlid/mydliny
 janitor-vrátný
-solicit-požádat
-dubious-pochybný
+hinge-závěs/zavěsit se
+delimiter-oddělovač
+inning-směna
+enumerate-vyjmenovat/vyčíslit/udělat výčet
+unpalatable-nepříjemný
+thesis-tvrzení
+treatise-pojednání
+jeopardize-ohrozit
