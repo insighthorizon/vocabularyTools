@@ -91,3 +91,10 @@ pestilence-zhoubná nákaza/mor
 lather-namydlid/mydliny
 janitor-vrátný
 hinge-závěs/zavěsit se
+delimiter-oddělovač
+inning-směna
+enumerate-vyjmenovat/vyčíslit/udělat výčet
+unpalatable-nepříjemný
+thesis-tvrzení
+treatise-pojednání
+jeopardize-ohrozit
