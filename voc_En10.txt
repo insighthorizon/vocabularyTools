@@ -90,3 +90,5 @@ sidle-přikrást se
 pestilence-zhoubná nákaza/mor
 lather-namydlid/mydliny
 janitor-vrátný
+solicit-požádat
+dubious-pochybný
