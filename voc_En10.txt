@@ -85,3 +85,4 @@ sidle-přikrást se
 pestilence-zhoubná nákaza/mor
 lather-namydlid/mydliny
 janitor-vrátný
+hinge-závěs/zavěsit se
