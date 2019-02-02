@@ -25,7 +25,7 @@ angst-úzkost
 feature-vlastnost
 taut-napnutý
 lassitude-únava
-hedge-živý plot
+hedge-krýt/živý plot
 sob-vzlyk
 brine-roztok
 detention-zadržení
