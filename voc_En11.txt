@@ -17,3 +17,68 @@ elicit-vyvolat/vyzvědět
 inconceivable-nepředstavitelný
 ratify-ratifikovat/formálně schválit
 grumpy-nevrlý
+succinct-stručný/výstižný
+staunch-věrný/zarytý
+injunction-soudní příkaz/nařízení
+sleazy-špinavý/hnusný
+glint-třpytit se/lesknout se
+conflagrate-zapálit
+caustic-žíravý/leptavý
+juggle-zvládat/stíhat/žonglovat
+scrawl-čmárat/škrábat
+prickle-píchat/škrábat
+ferret out-vyčenichat/vyslídit
+ferret-fretka
+brazen-bezostyšný/nestydatý
+mendacious-lživý
+bamboozle-napálit/balmutit
+wanton-bezdůvodný/svévlný
+garble-zkomolit/poplést
+jeer-posmívat se
+cogent-pádný/přesvědčivý
+fiend-zloduch/zrůda
+fiendish-ďábelský
+strain-nápor/vypětí
+swat-plácnout/plesknout
+latitude-volnost/zeměpisná šířka
+roundly-tvrdě/nemilosrdně
+mint-máta
+appall-zděsit/šokovat
+pariah-vyvrhel
+oft-často
+fester-hnisat/kypět/kvasit
+twiddle-kroutit
+discord-neshoda
+tenfold-desetkrát
+irate-rozlícený
+baffle-zmást/nejít na rozum
+epithet-přídomek/přízvisko
+vitriolic-jedovatý/sžíravý
+conceit-domýšlivost
+sinister-zlověstný
+janitor-vrátný
+armchair-křeslo
+typhoon-tajfun
+mast-stožár
+cog-zub ozubeného kola
+cone-kužel
+shrill-pronikavý
+petty-drobný/nepodstatný
+stardom-hvězdná popularita/sláva
+stew-(po)dusi (se)
+jolt-cuknout/škubnout (sebou)
+administer-spravovat/podat pacientovy/vykonat úředně
+straw-sláma
+double down-pokračovat v něčem
+rancid-žluklý/zkažený
+sordid-nechutný/hnusný
+wag-(za)vrtět/(za)mávat
+ward-oddělení/obvod/ochrana
+ward off-odvrátit
+dismal-bezútěšný
+nimble-mrštný/hbitý
+repent-litovat/kát se
+vault-trezor/(pře)skočit/klenba
+quench-uhasit/prudce zchladit
+fore-přední
+nudge-šťouchnout/dloubnout

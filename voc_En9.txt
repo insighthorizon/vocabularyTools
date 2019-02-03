@@ -81,7 +81,7 @@ dent-důlek
 receptacle-nádoba
 pasture-pastvina
 fence-plot
-contiguous-sousedící
+contiguous-sousedící/přilehlý
 gaggle-houf/chumel
 haggle-smlouvat
 clemency-milost/shovívavost
