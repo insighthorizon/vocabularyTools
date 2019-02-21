@@ -90,7 +90,7 @@ trash-odpadky
 fatal-fatální/osudný
 prostrate-padnout na zem tváří k zemi na znamení pokory před někým
 shudder-třást se
-shutter-závěrka
+shutter-závěrka/zavřít/zaklapnout
 dispose-likvidovat
 dispose of-zbavit se
 sovereign-suverénní/svrchovaný
