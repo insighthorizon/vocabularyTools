@@ -94,7 +94,7 @@ turmoil-zmatek/vřava
 tray-zásobník
 pot-hrnec/konvice
 trip-výlet
-exquisite-vynikající
+exquisite-nádherný/vynikající
 onslaught-prudký útok
 recall-vzpomínat
 numeral-číslovka

@@ -72,7 +72,7 @@ evict-vystěhovat
 closure-uzavření
 cinder-oharek
 falsify-falšovat
-hunch-tušení
+hunch-tušení/nahrbit se
 assiduous-pilný
 peddler-podomní obchodník
 bestow-propůjčit/udělit
