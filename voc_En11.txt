@@ -82,3 +82,5 @@ vault-trezor/(pře)skočit/klenba
 quench-uhasit/prudce zchladit
 fore-přední
 nudge-šťouchnout/dloubnout
+butler-komorník
+footnote-poznámka pod čarou
