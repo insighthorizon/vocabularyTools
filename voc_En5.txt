@@ -4,7 +4,7 @@ nudge-šťouchnutí
 hijack-únos
 conundrum-hádanka
 boggling-překvapující
-conceive-zplodit
+conceive-zplodit/vymyslet
 cautious-opatrný
 juvenile-mladistvý
 dull-nudný
