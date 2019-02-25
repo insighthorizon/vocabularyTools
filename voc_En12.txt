@@ -4,3 +4,7 @@ girth-obvod
 griddle-plotna
 stencil-šablona
 denim-džínovina
+morgue-márnice
+obituary-nekrolog
+squish-rozmáčknout
+squirm-kroutit se
