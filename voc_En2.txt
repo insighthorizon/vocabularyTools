@@ -1,4 +1,4 @@
-exceed-překonat
+exceed-převyšovat
 snippet-útržek
 gist-podstata
 cohesion-soudržnost
@@ -8,11 +8,11 @@ origin-původ
 obnoxious-protivný
 impose-vnucovat
 cough-kašlat
-refrain of something-zdržet se něčeho
+refrain from something-zdržet se něčeho
 restrain-omezit
 abstain-abstinovat
 comply-dodržoat
-concurrent-souběžbý
+concurrent-souběžný
 stream-proud
 aforementioned-výše zmíněných
 mutable-proměnlivý
@@ -94,7 +94,6 @@ whilst-zatímco
 procedure-postup
 stupor-strnulost
 proclivity-sklon
-impeding-bránící
 impede-překážet
 salient-významný
 substantial-podstatný
