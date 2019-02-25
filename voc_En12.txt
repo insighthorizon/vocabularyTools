@@ -8,3 +8,21 @@ morgue-márnice
 obituary-nekrolog
 squish-rozmáčknout
 squirm-kroutit se
+betrothed-zasnoubený/zaslíbený
+equivocation-dvojsmyslnost
+insouciant-bezstarostný/nenucený
+sermons-kázání
+gabble-žvanit
+scaffold-lešení
+plaque-plaketa
+slouch-schlíplý
+obtrusive-dotěrný
+unobtrusive-nenápadný/decentní
+reverent-uctivý
+flagrant-nehorázný/flagrantní
+pediment-pediment
+discern-rozeznat
+sassy-drzý
+glare-oslnit
+complacent-spokojený/samolibý
+proliferate-množit

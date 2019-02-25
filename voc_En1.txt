@@ -82,7 +82,7 @@ invoke-vyvolat
 connotation-vedlejší význam
 embody-ztělesňovat
 apprehensible-pochopitelný
-to object-namítat
+to object-namítnout
 fidelity-věrnost
 peculate-zpronevěřit veřejné finance
 trail-stezka
