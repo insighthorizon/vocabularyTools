@@ -1,5 +1,6 @@
 serene-klidný
 belligerent-útočný/agresivní
+girdle-pásek/opasek
 girth-obvod
 griddle-plotna
 stencil-šablona
@@ -39,3 +40,20 @@ grave-závažný/hrob
 pavement-chodník
 looming-hrozivý
 loom-tyčit se/být na obzoru/hrozit
+miniscule-miniaturní
+eddy-vír
+judicious-soudný/rozumný
+clutter-nepořádek
+allusion-narážka
+stretch-úsek/protáhnout
+muster-sehnat/shromáždit
+splendid-nádherný/velkolepý
+wring-ždímat/kroutit
+putative-předpokládaný
+intrigue-intrika
+illicit-nedovolený/pokoutní
+bosh-blbost
+mold/mould-forma/plíseň
+perspicuous-zřetelný
+outset-začátek/úvod
+glimpse-záblesk
