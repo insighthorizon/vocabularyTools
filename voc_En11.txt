@@ -34,7 +34,7 @@ narrative-příběh
 fortitude-statečnost
 inscrutable-nevyzpytatelný
 mere-pouhý
-elicit-vyvolat/vyzvědět
+elicit-vyvolat/vyloudit
 inconceivable-nepředstavitelný
 ratify-ratifikovat/formálně schválit
 grumpy-nevrlý
