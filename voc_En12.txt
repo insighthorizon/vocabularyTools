@@ -36,3 +36,6 @@ grim-chmurný
 grievely-žalostně
 grieve-truchlit
 grave-závažný/hrob
+pavement-chodník
+looming-hrozivý
+loom-tyčit se/být na obzoru/hrozit
