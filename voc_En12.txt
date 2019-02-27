@@ -37,6 +37,9 @@ grim-chmurný
 grievely-žalostně
 grieve-truchlit
 grave-závažný/hrob
+pavement-chodník
+looming-hrozivý
+loom-tyčit se/být na obzoru/hrozit
 miniscule-miniaturní
 eddy-vír
 judicious-soudný/rozumný
@@ -59,3 +62,5 @@ endearment-projev náklonnosti
 fond-mající rád
 rattle-chrastit/chřestit
 gust-poryv/závan
+avid-zanícený
+grievance-pocit křivdy
