@@ -54,3 +54,8 @@ mold/mould-forma/plíseň
 perspicuous-zřetelný
 outset-začátek/úvod
 glimpse-záblesk
+preposition-předložka
+endearment-projev náklonnosti
+fond-mající rád
+rattle-chrastit/chřestit
+gust-poryv/závan
