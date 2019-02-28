@@ -56,12 +56,20 @@ time_to_die()
     exit 0
 }
 
+ITERATOR=0
+WALL=2 #number of items in vocabulary will not go bellow this value - WALL of the last items will have to be killed at once
+# initialise the vocabulary
+VOCDATA=`sed '/^$/d' $1` # strip the file of empty lines
+NLINES=`echo "$VOCDATA" | wc -l`
+# initialise array for counting number of right answers for every particular vocabulary item
+for i in $(seq 0 $(( $NLINES - 1  )) ); do
+    COUNTanswers[i]=0
+done
+
+
 ANSWER=''
 #main loop
 until [ "$ANSWER" = '!' ]; do
-
-    VOCDATA=`sed '/^$/d' $1` # strip the file of empty lines
-    NLINES=`echo "$VOCDATA" | wc -l`
 
     # extracting needed data from the file
     LINEN=`echo "$(od -An -N4 -tu4 /dev/urandom) % $NLINES + 1" | bc` # random line number    
@@ -107,6 +115,40 @@ until [ "$ANSWER" = '!' ]; do
 
 	center_cursor
 	read ANSWER
+	
+	if [ "$ANSWER" = "$EXPECTING" ]; then
+	    (( COUNTanswers[LINEN]++ ))
+	    if (( ${COUNTanswers[LINEN]} > 2 )); then
+		if (( $NLINES > $WALL )); then # remove item from vocabulary only if there are still more than 2 items
+		   unset 'COUNTanswers[LINEN]' # remove the item froum array of counts of anwers
+		   COUNTanswers=("${COUNTanswers[@]}") # turn non-consecutive indexing to consecutive one again by copying the array into itself
+		   VOCDATA=`echo "$VOCDATA" | sed "/$VOCABULARY_LINE/d"` # remove the item from vocabulary
+		   NLINES=`echo "$VOCDATA" | wc -l` # recount the number of lines
+#		   formated_output "$NLINES"
+#		   read BECKON
+		else
+		    for i in $(seq 0 $(( $WALL - 1 )) ); do
+			formated_output "$ITERATOR"
+			read BECKON
+			formated_output "${COUNTanswers[ITERATOR]}"
+			read BECKON
+			if (( ${COUNTanswers[ITERATOR]} < 3 )); then
+			    ITERATOR = 0
+			    break
+			fi
+			if (( $ITERATOR = (( $WALL -1 )) )); then # check for game over
+			    formated_output "Finished! You've learned all :-)"
+			    read BECKON # waiting for user input so he has time to read	
+			    time_to_die
+	 	        fi
+			(( ITERATOR++ ))
+		    done
+		fi
+	    fi
+	else
+	    COUNTanswers[LINEN]=0 #failed answer resets counter of good answers
+	fi
+	
 	
 	if [ "$ANSWER" = '!' ]; then # i don't want to continue, deliberate end
 	    time_to_die
