@@ -75,3 +75,8 @@ inscription-nápis
 bottle up-potlačovat
 converse-opačný
 enquiry-šetření
+snub-sjet/plísnit/krátký a zahnutý nahoru(nos)
+frivolous-povrchní
+perspicuity-srozumitelnost
+swoop-vrhnout se/přepadnout
+sweep-mést/máchnout
