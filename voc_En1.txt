@@ -14,7 +14,7 @@ placid-klidný
 stage-etapa
 contemporary-moderní
 match-odpovídat
-alienation-odcizení (se)
+alienation-odcizení
 tactful-taktní
 omit-vynechat
 tenet-zásada
@@ -90,7 +90,7 @@ tag-štítek
 ancillary-vedlejší
 vigilant-bdělý
 agitate-agitovat
-offense-útok/urážka
+offense-útok,urážka
 whittle-ořezat
 repercussions-důsledky
 staging-režie

@@ -3,6 +3,7 @@
 # Script takes .txt file containing vocabulary as argument
 # Vocabulary must contain lines in format:
 # 'word/phrase in one language'-'that in other language'
+# !!!! phrases must contain only alphabetic characters, spaces and commas ','
 
 # Argument: path to vucabulary text file
 # Enter '!' to end the program
@@ -25,6 +26,8 @@ else
     fi
 fi
 
+# debug testing
+#formated_output "$NLINES ... |${COUNTanswers[0]}| |${COUNTanswers[1]}| |${COUNTanswers[2]}| |${COUNTanswers[3]}|"
 
 # Next lines of code are for user interface formating
 COLS=`tput cols`
@@ -56,23 +59,25 @@ time_to_die()
     exit 0
 }
 
-ITERATOR=0
-WALL=2 #number of items in vocabulary will not go bellow this value - WALL of the last items will have to be killed at once
+
+WALL=3 #number of items in vocabulary will not go bellow this value - WALL of the last items will have to be killed at once
+THICK=2 #number of consecutive valid answers needed to complete the item
+THICK_1=$(( $THICK - 1 ))
+echo "$THICK_1 $THICK"
+read BLABLA
 # initialise the vocabulary
 VOCDATA=`sed '/^$/d' $1` # strip the file of empty lines
 NLINES=`echo "$VOCDATA" | wc -l`
-# initialise array for counting number of right answers for every particular vocabulary item
-for i in $(seq 0 $(( $NLINES - 1  )) ); do
+for i in $(seq 0 $(( $NLINES - 1 )) ); do
     COUNTanswers[i]=0
 done
 
 
 ANSWER=''
 #main loop
-until [ "$ANSWER" = '!' ]; do
-
+while true; do
     # extracting needed data from the file
-    LINEN=`echo "$(od -An -N4 -tu4 /dev/urandom) % $NLINES + 1" | bc` # random line number    
+    LINEN=`echo "$(od -An -N4 -tu4 /dev/urandom) % $NLINES + 1" | bc` # random line number
     VOCABULARY_LINE=`echo "$VOCDATA" | sed -n "$LINEN"p`
     COIN_TOSS=`echo "$(od -An -N4 -tu4 /dev/urandom) % 2 + 1" | bc`
 
@@ -93,7 +98,7 @@ until [ "$ANSWER" = '!' ]; do
     esac
 
 
-    #loop for particular attempt - processing uder input and doing the logic
+    #loop for particular attempt - processing user input and doing the logic
     COUNTER=2
     until [ "$ANSWER" = "$EXPECTING" ]; do
 	
@@ -116,40 +121,6 @@ until [ "$ANSWER" = '!' ]; do
 	center_cursor
 	read ANSWER
 	
-	if [ "$ANSWER" = "$EXPECTING" ]; then
-	    (( COUNTanswers[LINEN]++ ))
-	    if (( ${COUNTanswers[LINEN]} > 2 )); then
-		if (( $NLINES > $WALL )); then # remove item from vocabulary only if there are still more than 2 items
-		   unset 'COUNTanswers[LINEN]' # remove the item froum array of counts of anwers
-		   COUNTanswers=("${COUNTanswers[@]}") # turn non-consecutive indexing to consecutive one again by copying the array into itself
-		   VOCDATA=`echo "$VOCDATA" | sed "/$VOCABULARY_LINE/d"` # remove the item from vocabulary
-		   NLINES=`echo "$VOCDATA" | wc -l` # recount the number of lines
-#		   formated_output "$NLINES"
-#		   read BECKON
-		else
-		    for i in $(seq 0 $(( $WALL - 1 )) ); do
-			formated_output "$ITERATOR"
-			read BECKON
-			formated_output "${COUNTanswers[ITERATOR]}"
-			read BECKON
-			if (( ${COUNTanswers[ITERATOR]} < 3 )); then
-			    ITERATOR = 0
-			    break
-			fi
-			if (( $ITERATOR = (( $WALL -1 )) )); then # check for game over
-			    formated_output "Finished! You've learned all :-)"
-			    read BECKON # waiting for user input so he has time to read	
-			    time_to_die
-	 	        fi
-			(( ITERATOR++ ))
-		    done
-		fi
-	    fi
-	else
-	    COUNTanswers[LINEN]=0 #failed answer resets counter of good answers
-	fi
-	
-	
 	if [ "$ANSWER" = '!' ]; then # i don't want to continue, deliberate end
 	    time_to_die
 	fi
@@ -157,6 +128,11 @@ until [ "$ANSWER" = '!' ]; do
 	if [ "$ANSWER" = '?' ]; then # show me the right answer and go to next word
 	    formated_output "Right Answer: $EXPECTING"
 	    center_cursor
+# debug testing	    
+#	    for i in $(seq 0 $(( $NLINES - 1)) ); do
+#		VOCABULARY_LINE=`echo "$VOCDATA" | sed -n "$(( i + 1 ))"p`
+#		echo "$VOCABULARY_LINE ... ${COUNTanswers[i]}"
+#	    done
 	    read BECKON # waiting for user input so he has time to read
 	    if [ "$BECKON" = '!' ]; then
 		time_to_die
@@ -167,7 +143,35 @@ until [ "$ANSWER" = '!' ]; do
 	(( COUNTER-- ))
     done
 
-    
+
+    if [ "$ANSWER" = "$EXPECTING" ]; then
+	(( COUNTanswers[(( $LINEN - 1 ))]++ ))
+	if (( ${COUNTanswers[(( $LINEN - 1 ))]} > $THICK_1 )); then
+	    if (( $NLINES > $WALL )); then # remove item from vocabulary only if there are still more than 2 items
+		unset 'COUNTanswers[(( $LINEN - 1 ))]' # remove the item froum array of counts of anwers
+		COUNTanswers=("${COUNTanswers[@]}")
+		VOCDATA=`echo "$VOCDATA" | sed "/$VOCABULARY_LINE/d"` # remove the item from vocabulary
+		NLINES=`echo "$VOCDATA" | wc -l` # recount the number of lines
+	    else
+		for i in $(seq 0 $(( $WALL - 1 )) ); do
+		    if (( ${COUNTanswers[i]} < $THICK )); then
+			break
+		    fi
+		    if [ $i -eq $(( $WALL - 1)) ]; then # check for game over
+			formated_output "Finished! You did it :-)"
+			read BECKON # waiting for user input so he has time to read	
+			time_to_die
+	 	    fi
+		done
+	    fi
+	fi
+    else
+	COUNTanswers[(( $LINEN - 1 ))]=0 #failed answer resets counter of good answers
+
+    fi
+
+    ANSWER=''    
 done
+
 
 time_to_die
