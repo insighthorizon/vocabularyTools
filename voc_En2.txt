@@ -64,7 +64,7 @@ contradiction-rozpor
 whim-rozmar
 rampart-hradba
 reckoning-zůčtování
-recall-odvolání
+recall-odvolat
 dispense-vydat
 dispensable-postradatelný
 indispensable-nepostradatelný
