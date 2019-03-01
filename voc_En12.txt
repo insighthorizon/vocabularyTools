@@ -81,3 +81,8 @@ perspicuity-srozumitelnost
 swoop-vrhnout se/přepadnout
 sweep-mést/máchnout
 scribble-načmárat/naškrábat
+riposte-pohotová reakce/odseknout
+murky-šerý/temný
+crisply-pevně a hladce
+crisp-pevný a hladký/křupat
+crispy-křupavý
