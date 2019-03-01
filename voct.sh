@@ -59,7 +59,7 @@ time_to_die()
 }
 
 
-WALL=3 #number of items in vocabulary will not go bellow this value
+WALL=8 #number of items in vocabulary will not go bellow this value
 THICK=2 #number of consecutive valid answers needed to complete the item
 #when number of items in vocabulary goes down to $WALL, then to finish the learning all the items remaining in vocabulary must have $THICK right answers at once
 THICK_1=$(( $THICK - 1 ))
@@ -127,6 +127,13 @@ while true; do
 	if [ "$ANSWER" = '?' ]; then # show me the right answer and go to next word
 	    formated_output "Right Answer: $EXPECTING"
 	    center_cursor
+	    
+	    # debug testing
+#	    echo "$NLINES"
+#	    for i in $(seq 0 $(( $NLINES - 1)) ); do
+#		VOCABULARY_LINE=`echo "$VOCDATA" | sed -n "$(( i + 1 ))"p`
+#		echo "$VOCABULARY_LINE ... ${COUNTanswers[i]}"
+#	    done
 	    read BECKON # waiting for user input so he has time to read
 	    if [ "$BECKON" = '!' ]; then
 		time_to_die
@@ -164,7 +171,8 @@ while true; do
 
     fi
 
-# debug testing	    
+# debug testing
+#    	    echo "$NLINES"
 #    for i in $(seq 0 $(( $NLINES - 1)) ); do
 #	VOCABULARY_LINE=`echo "$VOCDATA" | sed -n "$(( i + 1 ))"p`
 #	echo "$VOCABULARY_LINE ... ${COUNTanswers[i]}"

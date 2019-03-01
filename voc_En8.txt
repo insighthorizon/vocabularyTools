@@ -46,7 +46,7 @@ rugged-rozeklaný/drsný
 cleft-trhlina/puklina
 rift/crack-trhlina
 cloven-rozdvojený
-permeate-prostoupit
+permeate-prostoupit/pronikat
 woe-běda
 trickle-stékat
 course-kurz

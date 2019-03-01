@@ -86,3 +86,6 @@ murky-šerý/temný
 crisply-pevně a hladce
 crisp-pevný a hladký/křupat
 crispy-křupavý
+crumple-zmuchlat
+demeanor-chování/vystupování
+manner-způsob
