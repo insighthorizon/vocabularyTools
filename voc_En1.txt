@@ -72,7 +72,7 @@ impartial-nestranný
 debase-znehodnotit
 connotation-vedlejší význam
 expediency-účelnost
-disregard-přehlížení
+disregard-přehlížet
 agitated-rozrušený
 auxiliary-pomocný
 fawning-podlézavý
