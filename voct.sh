@@ -63,8 +63,7 @@ time_to_die()
 WALL=3 #number of items in vocabulary will not go bellow this value - WALL of the last items will have to be killed at once
 THICK=2 #number of consecutive valid answers needed to complete the item
 THICK_1=$(( $THICK - 1 ))
-echo "$THICK_1 $THICK"
-read BLABLA
+
 # initialise the vocabulary
 VOCDATA=`sed '/^$/d' $1` # strip the file of empty lines
 NLINES=`echo "$VOCDATA" | wc -l`
@@ -128,11 +127,6 @@ while true; do
 	if [ "$ANSWER" = '?' ]; then # show me the right answer and go to next word
 	    formated_output "Right Answer: $EXPECTING"
 	    center_cursor
-# debug testing	    
-#	    for i in $(seq 0 $(( $NLINES - 1)) ); do
-#		VOCABULARY_LINE=`echo "$VOCDATA" | sed -n "$(( i + 1 ))"p`
-#		echo "$VOCABULARY_LINE ... ${COUNTanswers[i]}"
-#	    done
 	    read BECKON # waiting for user input so he has time to read
 	    if [ "$BECKON" = '!' ]; then
 		time_to_die
@@ -150,7 +144,7 @@ while true; do
 	    if (( $NLINES > $WALL )); then # remove item from vocabulary only if there are still more than 2 items
 		unset 'COUNTanswers[(( $LINEN - 1 ))]' # remove the item froum array of counts of anwers
 		COUNTanswers=("${COUNTanswers[@]}")
-		VOCDATA=`echo "$VOCDATA" | sed "/$VOCABULARY_LINE/d"` # remove the item from vocabulary
+		VOCDATA=`echo "$VOCDATA" | sed "$LINEN"d` # remove the item from vocabulary
 		NLINES=`echo "$VOCDATA" | wc -l` # recount the number of lines
 	    else
 		for i in $(seq 0 $(( $WALL - 1 )) ); do
@@ -170,6 +164,14 @@ while true; do
 
     fi
 
+# debug testing	    
+#    for i in $(seq 0 $(( $NLINES - 1)) ); do
+#	VOCABULARY_LINE=`echo "$VOCDATA" | sed -n "$(( i + 1 ))"p`
+#	echo "$VOCABULARY_LINE ... ${COUNTanswers[i]}"
+#    done
+#    read BECKON
+
+    
     ANSWER=''    
 done
 
