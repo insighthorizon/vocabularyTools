@@ -2,8 +2,7 @@
 # A tool for training vocabulary
 # Script takes .txt file containing vocabulary as argument
 # Vocabulary must contain lines in format:
-# 'word/phrase in one language'-'that in other language'
-# !!!! phrases must contain only alphabetic characters, spaces and commas ','
+# 'word/phrase in one language'-'that in other language' - phrases can contain anything but a dash (-) or newline (\n)
 
 # Argument: path to vucabulary text file
 # Enter '!' to end the program
