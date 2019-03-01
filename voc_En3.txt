@@ -33,7 +33,7 @@ infamy-nepoctivost
 decree-dekretovat
 gutter-žlab
 boon-dobrodiní
-toil-dřina,dřít
+toil-dřina/dřít
 infraction-porušení
 indemnify-odškodnit
 remarkable-pozoruhodný
@@ -60,16 +60,16 @@ intangible-nehmatatelný
 incite-podněcovat
 innocuous-něškodný
 envelope-obálka
-dim-matný,ztlumit
+dim-matný/ztlumit
 circumvent-obejít
 ridge-hřbet
 cartridge-kazeta
-pivot-otáččet se,otočný čep
+pivot-otáččet se/otočný čep
 conclusive-rozhodující
-incquiry-dotaz,vyšetřování
-mingle-míchat,smísit
+incquiry-dotaz/vyšetřování
+mingle-míchat/smísit
 intermingle-promíchat
-perish-zahynout,zaniknout
+perish-zahynout/zaniknout
 dawn-svítání
 advent-příchod události
 clunky-neohrabaný
@@ -77,24 +77,24 @@ cumbersome-těžkopádný
 dissipation-rozptýlení
 impending-hrozící
 impend-be about to happen
-concerted-jointly arranged, planned, or carried out
+concerted-jointly arranged/planned/carried out
 foolhardy-hloupý
-amenable-přizpůsobitelné,ochotný
+amenable-přizpůsobitelné/ochotný
 overstate-přehánět
 impart-sdělit
-sift-prosít,prosít
+sift-prosít/prosít
 sieve-síto
 thresh-mlátit
 thrash-rozdrtit
 trash-odpadky
-fatal-fatální,osudný
+fatal-fatální/osudný
 prostrate-padnout na zem tváří k zemi na znamení pokory před někým
 shudder-třást se
-shutter-závěrka,zavřít,zaklapnout
+shutter-závěrka/zavřít/zaklapnout
 dispose-likvidovat
 dispose of-zbavit se
-sovereign-suverénní,svrchovaný
-consonant-souhláska,v souladu
-disembody-uvolnit,oddělit
+sovereign-suverénní/svrchovaný
+consonant-souhláska/v souladu
+disembody-uvolnit/oddělit
 atrocity-krutost
-purveyor-dodavatel,šiřitel
+purveyor-dodavatel/šiřitel
