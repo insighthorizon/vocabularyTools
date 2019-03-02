@@ -75,8 +75,7 @@ advent-příchod události
 clunky-neohrabaný
 cumbersome-těžkopádný
 dissipation-rozptýlení
-impending-hrozící
-impend-be about to happen
+impending-nadcházející/bezprostředně horzící
 concerted-jointly arranged/planned/carried out
 foolhardy-hloupý
 amenable-přizpůsobitelné/ochotný
