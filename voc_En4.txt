@@ -73,7 +73,7 @@ junction/juncture-spojení
 morsel-sousto
 edifice-velká budova
 stoke-přitápět
-weasel-lasička
+weasel-lasice
 lace-krajka
 curtain-záclona
 errand-pochůzka
