@@ -47,7 +47,7 @@ slander-pomlouvat
 hoarse-chraptivý
 disparage-znevažovat
 disparagingly-pohrdavě
-cartridge-patrona/kazeta
+cartridge-náboj/zásobník
 carriage-kočár
 cart-vozík
 inept-nejapný

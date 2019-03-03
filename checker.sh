@@ -7,7 +7,7 @@ NEW_ITEMS=''
 OLD_ITEMS=''
 for i in $(seq 1 $NLINES); do
     ITEM=`echo "$LIST" | sed -n "$i"p`
-    ITEM_INFO=`grep -nr --include="voc*\.txt" "$ITEM"`
+    ITEM_INFO=`grep -nr --include="voc_En*\.txt" "$ITEM"`
     if [ "$ITEM_INFO" = '' ]; then
 	NEW_ITEMS+="$ITEM"
 	NEW_ITEMS+=$'\n'

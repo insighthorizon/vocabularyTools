@@ -83,7 +83,7 @@ mainland-pevnina
 litigation-soudní spory
 arbitration-arbitráž
 infringe-porušit
-assert-tvrdit
+assert-tvrdit/prosadit
 withdraw-odstoupit
 tuition-školné
 pedestrian-pěší/chodec
