@@ -37,7 +37,7 @@ dispute/wrangle-spor
 canon-měřítko(kánon)
 blurb-propagační text
 lieu-místo něčeho
-stake-sázka
+stake-sázka/kůl
 stakeholder-zainteresovaný subjekt
 streamlined-proudnicový
 rafter-krokev

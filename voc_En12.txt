@@ -37,7 +37,7 @@ grim-chmurný
 grievely-žalostně
 grieve-truchlit
 grave-závažný/hrob
-pavement-chodník
+pavement-chodník/dlažba
 looming-hrozivý
 loom-tyčit se/být na obzoru/hrozit
 miniscule-miniaturní
@@ -97,4 +97,4 @@ irreconcilable-neslučitelné
 inflammation-zánět
 suffocate-udusit se
 asphyxiate-zadusit
-choke-rdousit/škrtit
+strangle-rdousit/škrtit
