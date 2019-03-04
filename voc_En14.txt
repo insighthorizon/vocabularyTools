@@ -6,7 +6,7 @@ dizzy-mající závrať
 pebble-oblázek
 puddle-louže
 disenherit-vydědit
-indict-obvinit
+accuse/indict-obvinit
 stem-pramenit z něčeho/stonek
 franchise-povolení/franšíza/volební právo
 disenfranchise-vyloučit/zbavit hlasovacího práva
@@ -64,3 +64,11 @@ ditch-příkop/zbavit se
 hog-prase/zabrat (si)
 carriage-vozík/kočár
 martial-válečný
+mayor-starosta/primátor
+sanctity/sacrament-posvátnost
+torrent-prudký proud/příval
+detergent-čistící prostředek
+determine-určit
+deteriorate-zhoršit
+ebb-klesat/ustupovat
+courteous-zdvořilý
