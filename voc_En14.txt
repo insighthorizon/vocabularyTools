@@ -72,3 +72,8 @@ determine-určit
 deteriorate-zhoršit
 ebb-klesat/ustupovat
 courteous-zdvořilý
+peck-klovat/zobat
+scuff-odřít
+scoff-posměch/vysmívat se
+scrape-oškrabat/seškrabat
+remark-poznámka/připomínka
