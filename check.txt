@@ -29,4 +29,5 @@ bogged
 frivolous
 fraught
 peril
-
+antecedent
+abdicate

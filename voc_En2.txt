@@ -11,7 +11,7 @@ cough-kašlat
 refrain from something-zdržet se něčeho
 restrain-omezit
 abstain-abstinovat
-comply-dodržoat
+comply-dodržovat
 concurrent-souběžný
 stream-proud
 aforementioned-výše zmíněných
@@ -56,7 +56,7 @@ confined-stísněný
 forfeit-ztratit
 omission-vynechání
 infer-usoudit
-inference-odvození
+inference-úsudek/odvození
 detract-znehodnotit
 rigor-přísnost
 conjecture-doměnka
