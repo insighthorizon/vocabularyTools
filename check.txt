@@ -27,3 +27,6 @@ spruce
 jerk
 bogged
 frivolous
+fraught
+peril
+
