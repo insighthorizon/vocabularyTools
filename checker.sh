@@ -1,13 +1,18 @@
 #!/bin/bash
 # A tool to quickly search if a list of items is already in the vocabulary
 # run with one argument: path to the list text file
-LIST=`sed '/^$/d' $1`
+
+#get rid of the info lines, cut out empty lines, turn all uppercase to lowercase
+LIST=`sed -n '/========= OLD ITEMS: ===========/q;p' $1 | sed '/^$/d' |  tr '[:upper:]' '[:lower:]'`
+echo "$LIST" > $1 #write the adjustments into the file right away
+
 NLINES=`echo "$LIST" | wc -l`
 NEW_ITEMS=''
 OLD_ITEMS=''
+
 for i in $(seq 1 $NLINES); do
     ITEM=`echo "$LIST" | sed -n "$i"p`
-    ITEM_INFO=`grep -nr -i --include="voc_En*\.txt" "$ITEM"`
+    ITEM_INFO=`grep -nr -i --include="voc_En*\.txt" "$ITEM"` #ignoring letter case, look in files with prefix voc_En and suffix .txt
     if [ "$ITEM_INFO" = '' ]; then
 	NEW_ITEMS+="$ITEM"
 	NEW_ITEMS+=$'\n'

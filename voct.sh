@@ -68,7 +68,7 @@ THICK_1=$(( $THICK - 1 ))
 VOCDATA=`sed '/^$/d' $1` # strip the file of empty lines
 NLINES=`echo "$VOCDATA" | wc -l`
 for i in $(seq 0 $(( $NLINES - 1 )) ); do
-    COUNTanswers[i]=0
+    COUNTanswers[i]=0 # array to count answers to all vocabulary items
 done
 
 
