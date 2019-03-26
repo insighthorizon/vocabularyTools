@@ -31,4 +31,227 @@ fraught
 peril
 antecedent
 abdicate
+purport
+nausea
+defer
+condone
+enail
+intriguing
+damping
+ascertain
+abhore
+procarious
+slant
+abdication
+sly
+ajurn
+shack
+discern
+ascertain
+slug
+dispatcher
+dispatch
+conceal
+concede
+solicit
+unsolicited
+ommission
+floppy
+posit
+reminisce
+derisive
+impeccable
+implacable
+convulsive
+tay
+budd
+commiseration
+abhore
+ostentatious
+conspicious
+tycoon
+abrupt
+severe
+severity
+disown
+privation
+taut
+ordeal
+caveat
+secede
+haphazard
+ratify
+harbour
+staunch
+scudd
+fugitive
+roguish
+mornful
+hickup
+judicious
+onerous
+defer
+avert
+slag
+trench
+abrupt
+schliver
+schiv
+schiver
+mundane
+ostentation
+prolific
+tentative
+stipulate
+contort
+fugative
+frugal
+stooge
+dinky
+decrepit
+hamper
+rake
+reek
+thereof
+construe
+entrench
+stoog
+ditto
+litter
+diffidence
+insouciant
+terse
+befit
+freight
+slump
+cogency
+========= OLD ITEMS: ===========
+voc_En6.txt:37:preset-přednastavení
+voc_En2.txt:6:shun-vyhýbat se
+voc_En2.txt:81:shun something-vyhýbat se něčemu
+voc_En7.txt:45:veracity-pravdomluvnost
+voc_En3.txt:70:mingle-míchat/smísit
+voc_En3.txt:71:intermingle-promíchat
+voc_En3.txt:71:intermingle-promíchat
+voc_En12.txt:26:sassy-drzý
+voc_En10.txt:86:sensibility-citlivost/vnímavost
+voc_En11.txt:90:jolt-cuknout/škubnout (sebou)
+voc_En12.txt:79:frivolous-povrchní
+voc_En4.txt:3:fraught-filled with or destined to result in (something undesirable)
+voc_En6.txt:68:peril-nebezpečí
+voc_En8.txt:34:peril-nebezpečí/riziko
+voc_En9.txt:12:antecedent-předchozí
+voc_En7.txt:8:purport-znamenat/význam
+voc_En9.txt:24:intriguing-fascinující
+voc_En10.txt:22:ascertain-zjistit/dopátrat se
+voc_En7.txt:46:shackle-(s)poutat/pouta
+voc_En12.txt:25:discern-rozeznat
+voc_En10.txt:22:ascertain-zjistit/dopátrat se
+voc_En8.txt:82:dispatch-vyslat
+voc_En13.txt:99:concede-připustit
+voc_En11.txt:1:solicit-požádat
+voc_En13.txt:32:unsolicited-ne(vy)žádaný
+voc_En13.txt:70:solicitude-žádost
+voc_En13.txt:32:unsolicited-ne(vy)žádaný
+voc_En5.txt:72:expository-vysvětlující
+voc_En10.txt:37:juxtaposition-postavení vedle sebe
+voc_En12.txt:60:preposition-předložka
+voc_En5.txt:84:reminiscent-připomínající
+voc_En6.txt:82:impeccable-bezvadný
+voc_En8.txt:42:severe-vážný
+voc_En2.txt:26:taut-napnutý
+voc_En10.txt:61:caveat-upozornění/varování
+voc_En11.txt:39:ratify-ratifikovat/formálně schválit
+voc_En11.txt:42:staunch-věrný/zarytý
+voc_En12.txt:45:judicious-soudný/rozumný
+voc_En5.txt:76:avert-odvrátit
+voc_En14.txt:33:slag-coura/struska
+voc_En7.txt:55:trench-příkop/zákop
+voc_En13.txt:82:ostentation-okázalé chování
+voc_En8.txt:11:tentative-předběžný/orientační
+voc_En5.txt:49:frugal-prostý,hospodárný
+voc_En7.txt:7:construe-vykládat
+voc_En10.txt:56:litter-smetí/stelivo/rozházet
+voc_En12.txt:14:insouciant-bezstarostný/nenucený
+voc_En14.txt:18:slump-propad/prudce poklesnout
+
+========= NEW ITEMS: ===========
+intelligible-srozumitelny
+unintelligible-nesrozumitelny
+dept-oddeleni
+accountable-odpovedny
+plummet-prudce poklesnout
+compartmentalize-rozclenit
+incarceration-uvezneni
+oblivious-nevsimajici si
+obvious-zrejmy
+extensible-rozsiritelny
+extensive-rozsahly
+truncate-seriznout
+defer-odlozit
+corresponding-odpovidajici
+brimstone/sulphur-sira
+elect-zvolit
+clerk-urednik
+spruce-smrk
+jerk-blbec/trhnout/skubnout
+bogged-zapadly
+abdicate/resign-odstoupit
+nausea-nevolnost
+condone-promijet/tolerovat
+enail-znamenat
+damping-tlumeni
+abhor-hnusit si
+slant-svazovat se/sklon
+sly-mazany
+slug-slimak
+dispatcher/sender-odesilatel
+conceal-skryt/skryvat
+ommission-opomenuti/vynechani
+floppy-zplihly/sveseny
+derisive/mocking-posmesny
+deride/mock-vysmivat se
+implacable-nesmiritelny
+convulsive-krecovity
+bud-pucet/pupen
+commiseration-politovani/soucit
+ostentatious-okazaly
+tycoon-magnat
+abrupt-nahly/neocekavany
+severity-vaznost/kriticnost
+sever-odseknout/oddelit
+sewer-kanalizace/stoka
+disown-poprit/zrici se
+privation-nouze/stradani
+ordeal-utrpeni/tezka zkouska
+secede-vystoupit/odtrhnout se
+haphazard-nahodily
+harbour-pristav/poskytnout utociste/skryvat/chovat
+scud-uhanet/hnat se
+fugitive-uprchlik/na uteku
+roguish-darebacky
+rogue-darebak
+mournful-truchlivy
+mourn-truchlit
+hiccup-zadrhel/skytnuti
+onerous-obtizny/tizivy
+shiver-zatrast/zachvet se/zachveni
+mundane-vsedni/obycejny
+prolific-pljodny/produktivni
+stipulate-vyhradit si/vyminit si
+contort-zkroutit (se)
+stooge-panak/poskok
+dinky-hezoucky
+decrepit-vetchy/sesly
+hamper-branit/prekazet
+rake-hrabe/shrabnout
+reek-pachnout/smrdet
+thereof-z toho/z nich
+entrench-opevnit/usadit/obehnat zakopem
+ditto-taktez/totez/rovnez
+diffidence-ostych/nesmelost
+terse-strucny/strohy/usecny
+befit-sluset se/hodit se
+freight-dopravne/naklad
+cogency-padnost/presvedcivost
 
