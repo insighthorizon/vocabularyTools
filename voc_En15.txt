@@ -38,7 +38,7 @@ hiccup-zadrhel/skytnuti
 onerous-obtizny/tizivy
 shiver-zatrast/zachvet se/zachveni
 mundane-vsedni/obycejny
-prolific-pljodny/produktivni
+prolific-plodny/produktivni
 stipulate-vyhradit si/vyminit si
 contort-zkroutit (se)
 stooge-panak/poskok
@@ -55,3 +55,8 @@ terse-strucny/strohy/usecny
 befit-sluset se/hodit se
 freight-dopravne/naklad
 cogency-padnost/presvedcivost
+edification-osveta/pouceni
+sanction-schvalit/sankce
+couch-gauc/formulovat/vyjadrit
+disguise-prestrojit/zamaskovat/prestrojeni
+baldly-stroze

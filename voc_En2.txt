@@ -95,5 +95,5 @@ procedure-postup
 stupor-strnulost
 proclivity-sklon
 impede-překážet
-salient-významný
+salient-vyrazny
 substantial-podstatný
