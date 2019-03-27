@@ -55,3 +55,7 @@ terse-strucny/strohy/usecny
 befit-sluset se/hodit se
 freight-dopravne/naklad
 cogency-padnost/presvedcivost
+proposition-tvrzeni
+statement/declaration-prohlaseni
+proverb-prislovi
+parse-analyzovat (vetu)
