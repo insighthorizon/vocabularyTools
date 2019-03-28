@@ -33,10 +33,11 @@ debunk-odhalit falešnou podstatu něčeho
 flutter-třepetání
 weary-unavený
 scold-nadávat
-scourge-metla
+scourge-metla/pohroma
+broom-metla
 spur-podnět
-parse-analyzovat
-stipuation-ustanovení
+parse-analyzovat (vetu)
+stipulation-ustanovení
 denote-označit
 slight-mírný
 sloth-lenost
@@ -50,7 +51,7 @@ loon-cvok
 associated-přidružený
 austerity-přísnost
 ambivalence-rozpolcenost
-propostrous-absurdní/nesmyslný
+preposterous-absurdní/nesmyslný
 plethora-přehršel
 fluke-náhoda
 gyrate-kroužit

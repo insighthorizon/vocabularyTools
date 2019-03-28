@@ -64,3 +64,4 @@ sanction-schvalit/sankce
 couch-gauc/formulovat/vyjadrit
 disguise-prestrojit/zamaskovat/prestrojeni
 baldly-stroze
+amalgamate-sloucit (se)
