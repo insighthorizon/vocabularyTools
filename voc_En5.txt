@@ -20,7 +20,7 @@ peatbog-rašeliniště
 preliminary-předběžný
 conscription-odvod
 tinker-bastlit
-divert-přesměrovat
+divert-odklonit/přesměrovat
 vast-obrovský
 flaky-bláznivý
 embolden-povzbudit
@@ -38,7 +38,7 @@ breeze-vánek
 eager-dychtivý
 equinox-rovnodennost
 tip toe-chodit po špičkách
-disctrict-okres
+district-okres
 subtle-jemný
 impoverish-ochudit
 mischievous-rozpustilý
@@ -47,12 +47,12 @@ despondency-malomyslnost
 prone-náchylný
 pungent-pálivý(chutí/čichem)
 frugal-prostý,hospodárný
-ocurrence-výskyt
+occurrence-výskyt
 colloquial-hovorový
 repudiate-zapudit
 tally-zaznamenat(písemně)
 providence-prozřetelnost
-frown upon-mračit se
+frown-mračit
 tread-šlapat
 dispense-vydávat
 rebuff-odmítnout
@@ -76,7 +76,8 @@ proliferation-rychlý růst počtu
 avert-odvrátit
 vow-slib
 righteous-spravedlivý
-omnious-zlověstný
+ominous/sinister/foreboding-zlověstný
+menace-hrozba/nebezpeci/postrach
 indignation-rozhořčení
 behoove-slušet se
 eavesdropping-odposlouchávání
@@ -90,7 +91,7 @@ tamper-manipulovat
 antiquity-starověk
 exsanguination-vykrvácení
 venerable-ctihodný
-sturdy-solidní
+sturdy-solidní/statny
 opulent-bohatý
 tenebrous-hrozivý
 rouse-vyburcovat
