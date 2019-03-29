@@ -8,7 +8,8 @@ immutability-neměnnost
 alloy-slitina
 warrant-rozkaz
 yoke-jho
-elaction-euforie
+elation-radostne nadseni
+elated-nadseny/stastny
 forebonding-předtucha
 stalwart-oddaný
 stall-pozastavit
@@ -27,7 +28,7 @@ supernumerary-nadpočetný
 vicinity-blízké okolí
 brevity-stručnost
 enumerate-vyčíslit
-vovel-samohláska
+vowel-samohláska
 obtuse-tupý
 advocate-zastávat/zastánce
 stifle-potlačit
@@ -59,7 +60,6 @@ placate-uklidnit
 defoliate-odlistit
 gestation-těhotenství
 incendiary-zápalný
-stage-uskotečnit
 coup-puč
 diligent-pilný
 intrusion-vniknutí
@@ -83,7 +83,7 @@ impeccable-bezvadný
 heist-loupež
 lump-kus
 clause-doložka
-amendment-pozměňovací návrh
+amendment-pozměňovací návrh/dodatek
 phony-falešný
 latch-západka
 friar-mnich/fráter
