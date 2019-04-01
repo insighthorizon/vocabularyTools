@@ -61,19 +61,18 @@ defoliate-odlistit
 gestation-těhotenství
 incendiary-zápalný
 coup-puč
-diligent-pilný
 intrusion-vniknutí
 acquisition-získávání
 pretension-předpětí
 peril-nebezpečí
 tenant-nájemce
-adamant-nústupný
+adamant-neústupný
 evict-vystěhovat
 closure-uzavření
 cinder-oharek
 falsify-falšovat
 hunch-tušení/nahrbit se
-assiduous-pilný
+diligent/assiduous-pilný
 peddler-podomní obchodník
 bestow-propůjčit/udělit
 punitive-trestné
@@ -87,12 +86,11 @@ amendment-pozměňovací návrh/dodatek
 phony-falešný
 latch-západka
 friar-mnich/fráter
-insolent-drzý
+insolent/impertinent-drzý
 devotion-oddanost
 flaccid-ochablý
 pertinent-podstatný
 obligation-závazek
-impertinent-drzý
 parole-čestné slovo
 parrot-papouškovat
 allegiance-věrnost
