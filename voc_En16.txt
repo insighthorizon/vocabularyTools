@@ -1,35 +1,3 @@
-as it were-takrikajic
-cab-taxik/kabina
-cabbie/cab driver-taxikar
-stove/heater-kamna
-cooker/stove-sporak
-dart-sipka
-engender-navodit
-stunted-zakrnely
-rivet-nyt/snytovat
-solace-utecha
-focal-ohnisko
-inerrant-inerrantni/bezchzbny
-dew-rosa
-municipal-obecni/mestsky
-recede-ustupovat/vzadlovat se/mizet
-defraud-osidit/podvest
-garment-cast odevu/odev
-plumb-kolmy/primy
-plumbing-klempirstvi/instalaterstvi
-gaunt-vyzably
-contortion-zkrouceni
-callus-mozol
-collude-tajne/ilegalne se dohodnout
-collusion-tajna/ilegalni dohoda
-despicable-opovrzenihodny
-ringer-zvonik/dvojnik
-audacious-odvazny/drzy
-vacant-neobsazeny/volny
-incumbent-drzitel/obyvatel
-possess-ovladnout/mit
-plausible-prijatelny/pravdepodobny
-terrestrial-pozemni/suchozemsky
 extraterrestrial-mimozemsky
 gills-zabry/lupeny hub
 proponent-zastance
@@ -89,4 +57,3 @@ exhurbetant-energicky/bujny
 mirrage-opticky klam
 emergence-vznik/objeveni se
 emergency-zachranny/pohotovostni
-
