@@ -4,7 +4,7 @@ trace-stopa
 cabbage-zelí
 confection-cukroví
 confections-cukrovinky
-construe-vykládat
+construe-vykládat si/chapat
 purport-znamenat/význam
 entail-znamenat
 adjunct-doplněk
@@ -17,9 +17,9 @@ turd-hovno
 conduit-potrubí
 resurgence-obnova
 vacuous-prázdný
-acknowledge-potvrdit
+acknowledge-priznat/uznat
 repent-kát se
-fornicate-smilstvo
+fornicate-smilnit
 conundrum-hádanka
 walrus-mrož
 sea lion-lachtan
