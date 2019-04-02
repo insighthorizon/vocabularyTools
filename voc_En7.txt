@@ -45,7 +45,7 @@ botch-zpackat
 veracity-pravdomluvnost
 shackle-(s)poutat/pouta
 reverence-úcta
-smattering-troška
+smattering-polovzdelany/castecny
 contraception-antikoncepce
 beacon-maják
 banner-prapor

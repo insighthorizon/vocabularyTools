@@ -13,11 +13,12 @@ thrill-prudké vzrušení
 admission-přijetí
 arcane-tajuplný
 fiery-ohnivý
-humility-
+humility-pokora/skromnost
 surf-příboj/vlnobití
 anxiety-úzkost
 uncanny-podivný
-aggrandize-zveličovat
+aggrandize-zvetsit
+exaggerate-prehanet/zvelicovat
 lucid-průzračný
 lucent-zářný
 scent-vůně
@@ -28,7 +29,7 @@ skew-zkreslit
 punctuation-interpunkce
 punctuate-rozdělit na intervaly
 punctual-dochvilný
-mirage-fata morgána
+mirage-klam/prizrak/fata morgána
 venture-riskantní podnik
 prompt-přimět/výzva
 peril-nebezpečí/riziko
@@ -39,7 +40,7 @@ nubile-na vdávání
 superficial-povrchní
 glam-okouzlující
 introspection-sebepozorování
-severe-vážný
+severe-vazny/silny
 glaze-glazura
 jaded-nudou otrávený
 rugged-rozeklaný/drsný
@@ -51,13 +52,13 @@ woe-běda
 trickle-stékat
 course-kurz
 exacerbate-zhoršit situaci
-indolent-líný
+indolent-lhostejny/liny
 foul-špinavý/odporný
 pernicious-zhoubný
 sinecure-teplé místečko
-stultifying-otupující/ubíjející
-stulify-otupit psychicky
-bolster-podpořit
+stultify-ucinit absurdnim/zesmesnit
+stellify-promenit ve hvezdu
+bolster/prop up-podpořit
 apparatchik-slepý stoupenec strany/organizace
 congruent-shodný/souhlasný
 keen-horlivý
@@ -91,10 +92,9 @@ prevalent-převládající/běžný
 amniotic-amnionický(amnion je vak ve kterém je embryo)
 clench-sevřít/zatnout
 unclench-uvolnit
-prop up-podpořit
 consciousness-vědomí
 conscientious-svědomitý
 conscientiousness-svědomitost
 emphatic-důrazný
 empathetic-empatický
-vociferous-hlasitý
+vociferous-hlucny/kricici
