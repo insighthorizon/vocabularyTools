@@ -64,12 +64,12 @@ forgo/forego-vzdát se něčeho
 forsake-opustit někoho/něco
 heft-tíha
 anoint-pomazat/jmenovat (obřadně)
-denigrate-odsouzet
+denigrate-zostudit/ocernit
 defame/malign-očerňovat
 mend-spravit/urovnat
 cruise-výlet
 kindle-roznítit
-progenitors-(pra)předek
+progenitor-predchudce/predek
 spark-jiskra
 stymie-(za)bránit/překážet
 barrel-hlaveň
@@ -88,6 +88,7 @@ clemency-milost/shovívavost
 receptivity-vnímavost
 perfiduous-proradný
 breadcrumb-strouhanka
+crumb-drobek/drobt
 furnish-zařídit/dodat
 indemnification-odškodnění
 enlist-narukovat/získat
