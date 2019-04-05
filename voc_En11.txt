@@ -11,7 +11,7 @@ buffoon-kašpar
 blemish-vada/poskvrnit/kaz
 rabble-dav/masa/lůza
 rubble-sutiny/hromada trosek
-wince-cuknout sebou
+wince/jolt-cuknout/skubnout
 braggart-chvástal
 incredulous-nevěřícný
 immaculate-bez vady
@@ -24,7 +24,7 @@ wrench-klíč/vykroutit
 gulp-doušek/polknout
 premonitory-varovný
 gloat-mít škodolibou radost
-sojourn-pobyt
+sojourn-prechodny pobyt
 pine-borovice
 pike-kopí/hrot/štika
 peninsula-poloostrov
@@ -52,10 +52,10 @@ ferret out-vyčenichat/vyslídit
 ferret-fretka
 brazen-bezostyšný/nestydatý
 mendacious-lživý
-bamboozle-napálit/balmutit
-wanton-bezdůvodný/svévlný
+bamboozle-napálit/balamutit
+wanton-bezdůvodný/svévolný
 garble-zkomolit/poplést
-jeer-posmívat se
+jeer-usklebek/posmívat se
 cogent-pádný/přesvědčivý
 fiend-zloduch/zrůda
 fiendish-ďábelský
@@ -84,10 +84,9 @@ mast-stožár
 cog-zub ozubeného kola
 cone-kužel
 shrill-pronikavý
-petty-drobný/nepodstatný
-stardom-hvězdná popularita/sláva
-stew-(po)dusi (se)
-jolt-cuknout/škubnout (sebou)
+petty-titerny/malicherny
+stardom-hvězdná pularita/sláva
+stew-podusit
 administer-spravovat/podat pacientovy/vykonat úředně
 straw-sláma
 double down-pokračovat v něčem
