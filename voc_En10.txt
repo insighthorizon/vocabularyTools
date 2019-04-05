@@ -7,7 +7,7 @@ wedlock-manželský svazek
 lash out-obořit se
 crow-chvástat se
 stake-vytycit/tyc/kul
-rail againts-ohradit se proti
+rail against-ohradit se proti
 blow-úder/foukat
 alacrity-ochota/horlivost
 provision-poskytnutí/ustanovení
@@ -64,13 +64,13 @@ nitpicking-hnidopišství
 reprieve-omilostnit
 outstrip-předčit
 relinquish-zříci se
-rife-běžný/rozšířený/hojný
+rife-rozšířený/hojný
 exhilaration-rozveseleni
 exhilarate-rozveselit/osvěžit
 transfix-ohromit/ochromit/probodnout
 scant-nedostatečný
 squander-promarnit/rozházet
-shrill-pronikavý
+shrill-rezavy/pronikavý
 spurn-odmítnout/odvrhnout
 foster-podporovat/pěstounský
 trepidation-nervozita/uzkost
@@ -80,7 +80,7 @@ chauvinistic-šovinistický
 wart-bradavice
 irrevocable-neodvolatelný
 wreak-napáchat/způsobit
-wreck-zničit/orátit v trosky
+wreck-zničit/obrátit v trosky
 havoc-zmatek
 perturbation-odchylka
 sensibility-rozumnost(socialni)/vnimavost

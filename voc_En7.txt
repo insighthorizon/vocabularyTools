@@ -4,7 +4,7 @@ trace-stopa
 cabbage-zelí
 confection-cukroví
 confections-cukrovinky
-construe-vykládat si/chapat
+construe-chapat/vykladat
 purport-znamenat/význam
 entail-znamenat
 adjunct-doplněk
