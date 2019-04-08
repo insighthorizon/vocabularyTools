@@ -18,7 +18,7 @@ immaculate-bez vady
 lustrous-lesklý
 luscious-lahodný
 consolidate-upevnit/ustálit
-solemn-slavnostní
+solemn-vazny/slavnostní
 apprehension-obava
 wrench-klíč/vykroutit
 gulp-doušek/polknout
@@ -85,7 +85,7 @@ cog-zub ozubeného kola
 cone-kužel
 shrill-pronikavý
 petty-titerny/malicherny
-stardom-hvězdná pularita/sláva
+stardom-hvězdná popularita/sláva
 stew-podusit
 administer-spravovat/podat pacientovy/vykonat úředně
 straw-sláma
