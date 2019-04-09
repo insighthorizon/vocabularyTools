@@ -1,42 +1,3 @@
-========= NEW ITEMS: ===========
-brisk-hbity/zivy
-hat/toque/beanie-cepice
-egregious-pozoruhodny
-smother-tutlat/zakryt/zadusit
-imperious-panovacny
-rush-chvatat/spech
-wither-chradnout
-interim-interval/prozatimni
-transliteration-transliterace/prepis
-rendition-ztvarneni/provedeni
-scutter-cupitat
-scuttling-cupitani/cupitajici
-beet/beetroot-repa (cervena)
-syncope-docasene bezvedomi/mdloba
-nook-kout
-profound-hluboky/vazny/opravdovy
-predominant-prevladajici
-query-dotazat se/dotaz
-earthen-hlineny/kameninovy
-earthenware-hrncirske/hlinene/kameninove zbozi
-coarse-surovy/neobrobeny/hruby
-shrewd-chytry/bystry/mazany
-shrub-krovi/ker
-luggage-zavazadla/brasnarske zbozi
-upbraid-karat/kritizovat
-glade-mytina/misto v lese bez stromu
-beligerent-nepratelsky/valcici/agresivni
-whistle-piskat/hvizdat/pistal(k)a
-electorate-volici/volicstvo
-commensurate-soumeritelny/umerny/primereny
-denizen-obyvatel
-tackle-obtezovat/resit
-pulley-kladka
-painstaking-usilovny/peclivy
-morass-bazina/mocal/bahno
-sawing-rezani/rezajici
-muffler-sala/tlumic
-chassis-plast konstrukce/podvozek/sasi
 hum-hucet/bzucet
 subvention/subsidy-statni podpora
 putsch-puc/prevrat
@@ -101,4 +62,3 @@ silhouette-silueta
 crunch-chroupat/krupat
 crouch-skrcit se/krcit se
 dowsing-proutkareni
-
