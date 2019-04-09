@@ -1,8 +1,8 @@
 serene-klidný
 belligerent-útočný/agresivní
 girdle-pásek/opasek
-girth-obvod
-griddle-plotna
+girth-obvod pasu/stromu
+griddle-panev/plotna
 stencil-šablona
 denim-džínovina
 morgue-márnice
@@ -10,7 +10,7 @@ obituary-nekrolog
 squish-rozmáčknout
 squirm-kroutit se
 betrothed-zasnoubený/zaslíbený
-equivocation-dvojsmyslnost
+equivocation-vyhybave reci
 insouciant-bezstarostný/nenucený
 sermons-kázání
 gabble-žvanit
@@ -50,7 +50,7 @@ muster-sehnat/shromáždit
 splendid-nádherný/velkolepý
 wring-ždímat/kroutit
 putative-předpokládaný
-intrigue-intrika
+plot/scheme/intrigue-intrika
 illicit-nedovolený/pokoutní
 bosh-blbost
 mold/mould-forma/plíseň
@@ -65,7 +65,7 @@ gust-poryv/závan
 avid-zanícený
 grievance-pocit křivdy
 dastard-podvodník/zbabělec
-underhanded-tajný
+underhanded-podloudny
 flair-cit/vkus
 frail-křehký/slabý
 aberration-odchylka
