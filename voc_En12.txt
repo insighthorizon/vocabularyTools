@@ -17,11 +17,11 @@ gabble-žvanit
 scaffold-lešení
 plaque-plaketa
 slouch-schlíplý
-obtrusive-dotěrný
+obtrusive-dotěrný/vtiravy
 unobtrusive-nenápadný/decentní
 reverent-uctivý
-flagrant-nehorázný/flagrantní
-pediment-pediment
+flagrant-kriklavy/zjevny
+pediment-trojuhelnikovy stit
 discern-rozeznat
 sassy-drzý
 glare-oslnit
@@ -47,7 +47,7 @@ clutter-nepořádek
 allusion-narážka
 stretch-úsek/protáhnout
 muster-sehnat/shromáždit
-splendid-nádherný/velkolepý
+splendid-ohromny/bajecny
 wring-ždímat/kroutit
 putative-předpokládaný
 plot/scheme/intrigue-intrika
