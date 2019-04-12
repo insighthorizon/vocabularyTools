@@ -1,4 +1,4 @@
-linger-prodlévat/nepolevovat
+linger-prodlévat/pretrvavat/otalet
 reproach-karat/vyčítat
 maculate-poskvrněný/poskvrnit
 apostasy-odpadlictví od víry
@@ -10,7 +10,7 @@ puck-puk/šotek
 perplex-nejít do hlavy
 perplexing-zapeklitý/matoucí
 pave-(vy)dláždit
-fervour-zápal/nadšení
+fervor/fervour-horlivost/zapal
 furore-rozruch/poprask
 furor-zuřivost
 magnanimous-velkodušný/velkorysý
@@ -32,21 +32,21 @@ artifice-rafinovanost
 unsolicited-ne(vy)žádaný
 unbridled-bezuzdný/nespoutaný
 bridle/rein-uzda
-bristle-strniště
+bristle-stetina/strniště
 complaint-stížnost
 reign-panování
 abridged-zkrácený
-uanbridged-nezkrácený
+unabridged-nezkrácený
 courtesy-zdvořilost
 depravity-nemravnost/mravní zkaženost
 badge-odznak
-budge-ustoupit
+budge-hnout se/ustoupit
 bulge-boule
 clipping-výstřižek
 daring/presumptuous-troufalý
 audacity-odvaha/drzost
 bridge-most/překlenout
-complaisant-povolný/svolný
+complaisant-ochotny/povolný
 interleave-prokládat
 voivod-vojvoda
 bail-kauce
@@ -54,7 +54,7 @@ bailout-záchrana/výpomoc
 exult-jásat
 rejoice-radovat se
 hitherto-dosud
-vista-výhled
+vista-výhled na
 fright-úlek/zděšení
 haze-opar
 daze-omámení
@@ -67,14 +67,14 @@ jagged-zubatý
 meager-slabý/hubený
 meek-pokorný
 gable-štít domu
-solicitude-žádost
+solicitude-starostlivost/pece o ostatni
 measles-spalničky
 disclose-odhalit/zveřejnit
 presumption-předpoklad
 penthouse-přístřešek
-dispensation-dispenzace/(zvláštní) povolení
+dispensation-osvobozeni/prominuti/(zvláštní) povolení
 modest-skromný/umírněný
-startled-překvapený
+startled-vyplaseny/překvapený
 preside-předsedat
 peer-civět/rovní
 vapid-mdlý
