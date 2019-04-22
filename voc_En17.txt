@@ -62,3 +62,39 @@ silhouette-silueta
 crunch-chroupat/krupat
 crouch-skrcit se/krcit se
 dowsing-proutkareni
+lavish-bohaty/plytvat
+endure-vydrzet/vytrvat
+lurk-skryvat se/cihat
+persistent-trvaly/staly
+sustain-udrzet/zachovat
+leash-uvazat/voditko
+slack-mdly/flakat se
+zeal-horlivost/zapal
+enthusiasm-nadseni/zaliba
+vigor/vigour-verva/raznost
+compliant-poddajny/vyhovujici
+complicit-majici spoluvinu
+outlet-odbytiste/odtok
+outlook-vyhled/vyhlidka
+stuffy-usedly/zatuchly/ucpatny
+dank-vlhky/zatuchly
+indignant-rozhorceny
+shell shock-posttraumaticky vlaecny stres
+shell-skorapka
+implore-upenlive prosite/vzyvat/zaprisahat
+entitle-davat pravo/zmocnit
+entitled-opravneny/majici narok
+luminary-kapacita/autorita
+luminous-svitici/svitivy/zarici
+deceit-podvod/klam
+property-vlastnost/majetek
+plummet-padat/prudce klesnout
+frill-limec/zachranny zahyb
+embellish-okraslit/ozdobit
+rote-mechanicke opakovani
+ruthless-bezohledny/nelitostny
+girder-nosnik/traverza
+beam-papersek/nosnik
+aloof-odmereny/odtazity/stranit se
+perspicacious-bystry/proziravy
+snappy-pohotovy/usecny
