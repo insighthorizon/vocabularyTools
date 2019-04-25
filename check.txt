@@ -8,3 +8,5 @@ destitude
 omniscient
 omnipotent
 omnipresent
+sap
+unbridled
