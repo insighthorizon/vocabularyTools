@@ -10,7 +10,7 @@ accuse/indict-obvinit
 stem-pramenit z něčeho/stonek
 franchise-povolení/franšíza/volební právo
 disenfranchise-vyloučit/zbavit hlasovacího práva
-pasty-bledý
+pasty-mazlavy/bledý
 pesky-otravný
 bead-korálek
 bromide-bromid/banalita
@@ -18,7 +18,7 @@ pincer-kleště/pinzeta/klepeto
 slump-propad/prudce poklesnout
 penance-pokání
 scab-strup
-picket-postavit hlídky/stávkovat/
+picket-postavit hlídky/stávkovat
 strike-stávka
 derelict-opuštěný/zchátralý
 incision-(zá)řez
@@ -29,7 +29,7 @@ embark-pustit se do něčeho/nastoupit
 statutory-statutární/zákonný
 stature-vzrůst/postava
 tacid-tichý/mlčenlivý
-plight-tíživá situace
+plight-tíživá situace/slibit
 slag-coura/struska
 narrator-vypravěč
 streak-pruh/pás
@@ -37,14 +37,14 @@ plaster-omítka/náplast
 popper-patentka/druk
 conceit-domýšlivost
 renunciation-odřeknutí
-renounce-zřeknout se
+renounce-odvolat/zrict se
 enounce-vyslovit/prohlásit
 enunciation-vyslovení/výslovnost
 denounce-odsoudit/vypovědět
-denunciation-vypovězení
+denunciation-(verejne) odsouzeni/odmitnuti
 tile-dlaždice/kachlík
 stern-přísný/vážný/záď
-vestige-stopa/pozůstatek
+vestige-stopa/znamka/pozustatek
 province-provincie/pole působnosti
 harness-postroj/ovládnout/využít
 impediment-překážka
@@ -58,7 +58,7 @@ dial-číselník/vytočit
 sudden-náhlý
 mason-zedník
 peddler-podomní prodejce
-eminent-význačný
+eminent-vynikajici/vyznamny
 imminent-bezprostřední
 ditch-příkop/zbavit se
 hog-prase/zabrat (si)
@@ -88,7 +88,7 @@ oblivious-nevsimajici si
 obvious-zrejmy
 extensible-rozsiritelny
 extensive-rozsahly
-truncate-seriznout
+truncate-odriznout/seriznout
 defer-odlozit
 corresponding-odpovidajici
 brimstone/sulphur-sira
