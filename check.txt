@@ -38,3 +38,10 @@ racketeer
 hubris
 coopt
 adulation
+subsume-zahrnovat
+irrigate
+dubious
+deny
+tantamount
+panache
+
