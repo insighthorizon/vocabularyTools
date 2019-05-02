@@ -50,7 +50,7 @@ harness-postroj/ovládnout/využít
 impediment-překážka
 engulf-pohltit/zachvátit
 disfigure-znetvořit
-destitute-nemajetný
+destitute-stradajici/nemajetný/opusteny
 gulch/ravine-rokle/strž
 jury-porota
 marble-mramor

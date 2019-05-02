@@ -1,40 +1,113 @@
-savor-vychutnat
-tilt
-meticulous
-constitute
-dissent
-espouse
-destitude
-omniscient
-omnipotent
-omnipresent
-sap
-unbridled
-protege
-posit
-soothe
-impair
-slob
-troth
-slither
-fulcrum
-dump
-unravel
-odious
-pertain
-discretion-uvazeni
-boom
-readily
-superimpose
-scrawny
-ferocious
-perfidy
-sewage
-unscathed
-scath
-strafe
-racketeering
-racketeer
-hubris
+========= OLD ITEMS: ===========
+
+========= NEW ITEMS: ===========
+savor/savour-pomalu si vychutnat
+tilt-naklonit/naklopit
+meticulous-uzkostlive peclivy/pedantsky
+espouse-zastavat/prihmout
+omniscient-vsevedouci
+omnipotent-vsemohouci
+omnipresent-vsudypritomny
+sap-podkopat/oslabit/miza/hlupak
+protege-protekcni osoba/chranenec
+posit-predpokladat/postulovat
+soothe-tisit/mirnit
+impair-narusit/poskodit
+slob-flakac/line prase
+troth-zasnubni slib/vernost
+trot-klusat
+slither-soupat se/plazit se/sklouznout
+fulcrum-bod otaceni
+dump-odhodit/dira
+flotsam-vyplavene/plujici trosky/ztroskotanci/pobuda
+jet-tryska
+fleet-flotila
+jetsam-lodni naklad vyhozeny do more
+jumble-pomichat/neprehledne mnozstvi veci
+scrap-kousek/zbytky
+rubbish-odpad/brak
+debris-sut/ulomky/trosky
+litter-smeti
+unravel-rozpadat se/rozmotat/rozlustit
+odious-ohavny/hnusny
+pertain-prisluset/nalezet
+discretion-opatrnost/zdrzenlivost/diskretnost
+readily-bez vahani/pohotove
+superimpose-polozit na/prekryt
+scrawny-vychrtly
+ferocious-divoky/dravy
+perfidy-proradnost/zradnost
+scat-vystartovat/zmizet/trus
+unscathed-bez ujmy/nezraneny
+scathe-poskodit
+strafe-ostrelovat/bombardovat/pohyb do strany
+rocketeer-stavitel raket
+racketeering-vydirani/organizovane vyderacstvi
+racketeer-vyderac/gangster/podvodnik
+blackmail-vydirani
+badger-jezevec
+raccoon-myval
+rack-regal/stojan
+stand/rack-stojan
 coopt
 adulation
+poise
+wade
+icholate
+moot
+elucidation
+snear
+bane
+ludicrous
+blunder
+exhasperation
+synombulous
+rectitude
+brawn
+deprivation
+impeach
+squalor
+shack
+ravine
+laurel
+pejorative
+impecable
+impeach
+gretuity
+immolate
+semblance
+driwle
+dribble
+alimony
+trim
+restitute
+restitution
+mediocrity
+plunderintendant
+superintendant
+squad
+precaution
+ominous
+unravel
+expletive
+explicative
+bracket
+impredicavity
+naught
+indubitable
+raft
+otiose
+thwarted
+assent
+hilarity
+alleged
+stock
+hillarious
+conveyor
+unyielding
+conjenital
+congenital
+rectitude
+requial
+shaby
+
