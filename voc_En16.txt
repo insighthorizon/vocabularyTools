@@ -9,7 +9,7 @@ profane-rouhavy/svetsky
 rely-spolehnout se/byt zavisly
 passage-pruchod
 provenance-puvod
-regiment-pluk/regiment
+regiment-systematicky zorganizovat/pluk
 redirect-presmerovani
 leaflet-letak
 sag-prohybat se/provesit se

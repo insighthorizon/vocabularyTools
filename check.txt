@@ -49,17 +49,20 @@ badger-jezevec
 raccoon-myval
 rack-regal/stojan
 stand/rack-stojan
-coopt
-adulation
-subsume-zahrnovat
-irrigate
-dubious
-deny
-tantamount
-panache
-poise
-wade
-icholate
+vast-obrovsky/ohromny
+vigilante-civilni straz
+co opt-pribrat k sobe/prizvat/jmenovat
+coop-kotec/kurnik/zavrit do klece
+coop in-vtesnat/vmacknout
+appoint-jmenovat do funkce/urcit cas schuzky
+adulation-patolizalstvi/pochlebovani
+subsume-zahrnovat/zaclenit
+irrigate-zavodnit/zavlazit
+deny-poprit/zaprit
+tantamount-stejny/rovnajici se cemu
+panache-elegance/smrnc
+poise-vyrovnanost/klid/vyvazit/balancovat
+wade-brouzdat se/bordit se
 moot
 elucidation
 snear
