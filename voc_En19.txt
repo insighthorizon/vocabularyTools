@@ -19,3 +19,82 @@ rut-brazda
 commute-menit/dojizdet
 machinist-strojnik/mechanik
 visceral-niterny/utrobni
+savor/savour-pomalu si vychutnat
+tilt-naklonit/naklopit
+meticulous-uzkostlive peclivy/pedantsky
+espouse-zastavat/prihmout
+omniscient-vsevedouci
+omnipotent-vsemohouci
+omnipresent-vsudypritomny
+sap-podkopat/oslabit/miza/hlupak
+protege-protekcni osoba/chranenec
+posit-predpokladat/postulovat
+soothe-tisit/mirnit
+impair-narusit/poskodit
+slob-flakac/line prase
+troth-zasnubni slib/vernost
+trot-klusat
+slither-soupat se/plazit se/sklouznout
+fulcrum-bod otaceni
+dump-odhodit/dira
+flotsam-vyplavene/plujici trosky/ztroskotanci/pobuda
+jet-tryska
+fleet-flotila
+jetsam-lodni naklad vyhozeny do more
+jumble-pomichat/neprehledne mnozstvi veci
+scrap-kousek/zbytky
+rubbish-odpad/brak
+debris-sut/ulomky/trosky
+litter-smeti
+unravel-rozpadat se/rozmotat/rozlustit
+odious-ohavny/hnusny
+pertain-prisluset/nalezet
+discretion-opatrnost/zdrzenlivost/diskretnost
+readily-bez vahani/pohotove
+superimpose-polozit na/prekryt
+scrawny-vychrtly
+ferocious-divoky/dravy
+perfidy-proradnost/zradnost
+scat-vystartovat/zmizet/trus
+unscathed-bez ujmy/nezraneny
+scathe-poskodit
+strafe-ostrelovat/bombardovat/pohyb do strany
+rocketeer-stavitel raket
+racketeering-vydirani/organizovane vyderacstvi
+racketeer-vyderac/gangster/podvodnik
+blackmail-vydirani
+badger-jezevec
+raccoon-myval
+rack-regal/stojan
+stand/rack-stojan
+vast-obrovsky/ohromny
+vigilante-civilni straz
+co opt-pribrat k sobe/prizvat/jmenovat
+coop-kotec/kurnik/zavrit do klece
+coop in-vtesnat/vmacknout
+appoint-jmenovat do funkce/urcit cas schuzky
+adulation-patolizalstvi/pochlebovani
+subsume-zahrnovat/zaclenit
+irrigate-zavodnit/zavlazit
+deny-poprit/zaprit
+tantamount-stejny/rovnajici se cemu
+panache-elegance/smrnc
+poise-vyrovnanost/klid/vyvazit/balancovat
+wade-brouzdat se/brodit se
+moot-diskutabilni/sporny
+elucidate-osvelit/objasnit
+sneer-usklibat se
+grin-usklebek
+bane-prokleti/zahuba
+ludicrous-smesny/absurdni
+blunder-zpackat/hruba chyba
+exasperation-podrazdeni/popuzovani
+somnambulism-namesicnost
+rectitude-cestnost/poctivost
+brawn-sila/svalstvo
+deprivation-stradani/nedostatek/odebrani
+impeach-obvinit/obzalovat
+squalor-spina/bida/necistota
+shack-chata/chatrc
+ravine-strz/rokle/prurva
+laurel-vavrin
