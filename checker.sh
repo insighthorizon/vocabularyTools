@@ -12,7 +12,7 @@ OLD_ITEMS=''
 
 for i in $(seq 1 $NLINES); do
     ITEM=`echo "$LIST" | sed -n "$i"p`
-    ITEM_INFO=`grep -nr -i --include="voc_En*\.txt" "^$ITEM-"` #ignoring letter case, must look for words ending with - (otherwise subword problem - finds full in fully etc.), (^ -from start of line), look in files with prefix voc_En and suffix .txt
+    ITEM_INFO=`grep -nr -i --include="voc_En*\.txt" "^$ITEM-\|$ITEM/"` #ignoring letter case, must look for words ending with - or / (otherwise subword problem - finds "full" in "fully" etc.), (^ -from start of line), look in files with prefix voc_En and suffix .txt
     if [ "$ITEM_INFO" = '' ]; then
 	NEW_ITEMS+="$ITEM"
 	NEW_ITEMS+=$'\n'
