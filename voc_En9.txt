@@ -1,101 +1,101 @@
-garner-sesbírat
-scum-nečistota/pěna/povlak/nežádoucí částečky obsahu
-extraneous-nepodstatný
-mousse-šlehaná pěna
-whip-bič/šlehat
-glide-klouzat
-skim-sesbírat (to nejlepší z něčeho)
-perspire-potit se
-convey-sdělit
-adjacent-přilehlý
-antecedent-předchozí
-conspicuous-nápadný
-mariner-námořník
-maroon-nechat někoho chyceného na izolovaném místě(ostrově)
-contrive-vymyslet/vynalezt
-innate-vrozený
-diddle-ošulit
-ergo-tudíž
-consequently-nasledkem toho/proto
-affluent-bohatý
-precursor-předchůdce
-recur-opakovat se
-circumscribe-vymezit
-intriguing-fascinující
-inextricable-neoddělitelné
-intertwine-proplést
-rinse-vypláchnout
-boisterous-bouřlivý
-fine-pokuta/pokutovat
-sulk-trucovat
-morose/sullen/sulky-mrzutý
-thrust-strčit
-pout-špulit pusu/mračit se
-palatable-chutný
-aggregate-soubor
-affiliate-sloucit/pratelit se/pripojit
-outline-nastínit
-overlay-potah/pokrýt
-likewise-rovněž
-burly-statný
-hurly burly-vřava
-curb-omezit/obrubník
-choir-sbor
-wail-naříkat
-cunning-mazanost
-slander-pomlouvat
-hoarse-chraptivý
-disparage-znevažovat
-disparagingly-pohrdavě
-cartridge-náboj/zásobník
-carriage-kočár
-cart-vozík
-inept-nejapný
-bungle-zvorat
-persuade-přesvědčit
-adverse-nepříznivý
-defendant-žalovaný
-plaintiff-žalobce/navrhovatel
-prosecutor-žalobce/prokurátor
-attorney/barrister-advokát
-spinster-přadlena/stará pana
-forego-předcházet
-forgo/forego-vzdát se něčeho
-forsake-opustit někoho/něco
-heft-tíha
-anoint-pomazat/jmenovat (obřadně)
-denigrate-zostudit/ocernit
-defame/malign-očerňovat
-mend-spravit/urovnat
-cruise-výlet
-kindle-roznítit
-progenitor-predchudce/predek
-spark-jiskra
-stymie/stymy-prekerna situace
-barrel-hlaveň
-entrap-polapit
-appropriate-odpovídající
-abbreviation-zkratka
-proficiency-zběhlost
-dent-důlek
-receptacle-nádoba
-pasture-pastvina
-fence-plot
-contiguous-bezprostredne nasledujici/predchazejici
-gaggle-houf/chumel
-haggle-smlouvat
-clemency-milost/shovívavost
-receptivity-vnímavost
-perfiduous-proradný
-breadcrumb-strouhanka
-crumb-drobek/drobt
-furnish-zařídit/dodat
-indemnification-odškodnění
-enlist-narukovat/získat
-appeasement-uklidnění/ústupek
-appease-usmířit/uchlácholit
-concise-stručný
-supple-ohebný
-churn out-(vy)chrlit
-lurch-nahnout se/vravorat
-elation-radostné nadšení
+garner=sesbírat
+scum=nečistota/pěna/povlak/nežádoucí částečky obsahu
+extraneous=nepodstatný
+mousse=šlehaná pěna
+whip=bič/šlehat
+glide=klouzat
+skim=sesbírat (to nejlepší z něčeho)
+perspire=potit se
+convey=sdělit
+adjacent=přilehlý
+antecedent=předchozí
+conspicuous=nápadný
+mariner=námořník
+maroon=nechat někoho chyceného na izolovaném místě(ostrově)
+contrive=vymyslet/vynalezt
+innate=vrozený
+diddle=ošulit
+ergo=tudíž
+consequently=nasledkem toho/proto
+affluent=bohatý
+precursor=předchůdce
+recur=opakovat se
+circumscribe=vymezit
+intriguing=fascinující
+inextricable=neoddělitelné
+intertwine=proplést
+rinse=vypláchnout
+boisterous=bouřlivý
+fine=pokuta/pokutovat
+sulk=trucovat
+morose/sullen/sulky=mrzutý
+thrust=strčit
+pout=špulit pusu/mračit se
+palatable=chutný
+aggregate=soubor
+affiliate=sloucit/pratelit se/pripojit
+outline=nastínit
+overlay=potah/pokrýt
+likewise=rovněž
+burly=statný
+hurly burly=vřava
+curb=omezit/obrubník
+choir=sbor
+wail=naříkat
+cunning=mazanost
+slander=pomlouvat
+hoarse=chraptivý
+disparage=znevažovat
+disparagingly=pohrdavě
+cartridge=náboj/zásobník
+carriage=kočár
+cart=vozík
+inept=nejapný
+bungle=zvorat
+persuade=přesvědčit
+adverse=nepříznivý
+defendant=žalovaný
+plaintiff=žalobce/navrhovatel
+prosecutor=žalobce/prokurátor
+attorney/barrister=advokát
+spinster=přadlena/stará pana
+forego=předcházet
+forgo/forego=vzdát se něčeho
+forsake=opustit někoho/něco
+heft=tíha
+anoint=pomazat/jmenovat (obřadně)
+denigrate=zostudit/ocernit
+defame/malign=očerňovat
+mend=spravit/urovnat
+cruise=výlet
+kindle=roznítit
+progenitor=predchudce/predek
+spark=jiskra
+stymie/stymy=prekerna situace
+barrel=hlaveň
+entrap=polapit
+appropriate=odpovídající
+abbreviation=zkratka
+proficiency=zběhlost
+dent=důlek
+receptacle=nádoba
+pasture=pastvina
+fence=plot
+contiguous=bezprostredne nasledujici/predchazejici
+gaggle=houf/chumel
+haggle=smlouvat
+clemency=milost/shovívavost
+receptivity=vnímavost
+perfiduous=proradný
+breadcrumb=strouhanka
+crumb=drobek/drobt
+furnish=zařídit/dodat
+indemnification=odškodnění
+enlist=narukovat/získat
+appeasement=uklidnění/ústupek
+appease=usmířit/uchlácholit
+concise=stručný
+supple=ohebný
+churn out=(vy)chrlit
+lurch=nahnout se/vravorat
+elation=radostné nadšení
