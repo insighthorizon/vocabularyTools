@@ -29,52 +29,55 @@ vend=prodat pouličně
 wend=ubírat se/směřovat
 cautionary=varovný/výstražný
 co-opt=kooptovat/přibrat k sobě
-bark=
-treebark
-loggerhead
-hark
-amply
-ample
-unicity
-sublate
-accrue
-conjure
-imbue
-eavesdrop
-caution
-prudence
-serf
-mindboggling
-abolish
-parsimony
-heinous
-premeditate
-slip up
-rapport
-divulge
-ostracize
-cast aside
-hegemony
-incriminate
-incriminating
-jock
-carousel
-trailblazer
-zeitgeist
-covet
-dub
-revile
-sorority
-cuss
-decease
-assail
-assailant
-holster
-beneath
-twirl
-flick
-corroborate
-chisel
+bark=štěkat/kůra
+hark=naslouchat pozorně
+ample=dostatečný/bohatý
+moan/bemoan=naříkat/lamentovat
+unicity=jednoznačnost/jednota/unikátnost
+equity=čisté jméní společnosti/rovnsot/spravedlnost
+sublate=negovat/odepřít
+accrue=narůstat/nahromadit se
+conjure=vyčarovat/kouzlit
+imbue=naplnit/vštípit/dodad čemu co
+eavesdrop=odposlouchávat
+prudence/caution=opatrnost/obezřetnost
+serf=nevolník
+mind-boggling=ohromující/neuvěřitelný
+abolish=zrušit/odstranit
+parsimony=(přílišná) šetrnost/lakomost
+heinous=hnusný/ohavný/odporný
+repugnant=odpudivý/odporný
+disgusting=nechutný/odporný
+premeditate=promyslet/uvážit
+slip=štěrbina/ruzparek/rozříznout
+vest=tílko/vesta/udělit/propůjčit
+rapport=vztah/vzájemné porozumění
+tractable=zvladatelný/poddajný
+divulge=prozradit/vyzradit
+ostracize=vyloučit ze společnosti
+cast aside=odvrhnout/odhodit
+hegemony=uspořádání nadvlády
+incriminate=poukozvat na/usvědčovat/obvinit
+carousel=kolotoč
+trailblazer=průkopník/pionýr
+zeitgeist=duch doby
+covet=prahnout/bažit
+long/yearn=dychtit/toužit
+dub=přezdívat
+revile=zlořečit/spílat
+sorority=sesterstvo
+cuss=nadávat komu/zaklít
+decease=skon/smrt/zesnout
+gratuitous=bezdůvodný/neopodstatněný
+assail=napadat/kritizovat
+attacker/assailant=útočník
+holster=pouzdro (na pistoli/přístroj)
+beneath=pod něčím
+twirl=točit (se)/otáčet (se)
+flick=mihnout se/kmitnout/švihnout
+corroborate=potvrdit/dosvědčit
+lemming=lumík
+chisel=dláto/otesávat/ošulit
 pretence
 lineal
 kinship
@@ -432,8 +435,6 @@ lackadaisical
 fettered
 churlish
 cadaver
-assail
-assailant
 custom
 goof
 sully
