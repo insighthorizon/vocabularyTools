@@ -1,202 +1,3 @@
-streek=pruh/protáhnout
-shriek=(za)ječet
-rumble=rachot/rachotit
-ramble=mluvit/chodit bez cíle
-rave=blouznit/třeštit
-miscarriage=samovolný potrat/nezdar
-peddle=prodávat podomně
-poultry=drůbež
-watershed=předěl/přelom
-cursory=zběžný
-acolyte=přívrženec/ministrant
-domineer=vládnout despoticky
-thorough=důkladný
-alley=ulička/průchod
-furtive=kradmý/potutelný
-foil=fólie/protějšek
-extant=dochovaný/současný
-undue=přehnaný/neoprávněný/před splatností
-logger=dřevorubec/zapisovač dat
-transgress=prohřešit se/porušit něco
-fume=výpary/dým/hněv
-makeshift=provizorní
-assort=roztřídit
-hoist=(vy)zvednout/(vy)zdvihnout
-masonry=zdivo/zdění/zednářství
-ligament=šlacha/vaz/vazivo
-hawker=pouliční prodavač
-vend=prodat pouličně
-wend=ubírat se/směřovat
-cautionary=varovný/výstražný
-co-opt=kooptovat/přibrat k sobě
-bark=štěkat/kůra
-hark=naslouchat pozorně
-ample=dostatečný/bohatý
-moan/bemoan=naříkat/lamentovat
-unicity=jednoznačnost/jednota/unikátnost
-equity=čisté jméní společnosti/rovnsot/spravedlnost
-sublate=negovat/odepřít
-accrue=narůstat/nahromadit se
-conjure=vyčarovat/kouzlit
-imbue=naplnit/vštípit/dodad čemu co
-eavesdrop=odposlouchávat
-prudence/caution=opatrnost/obezřetnost
-serf=nevolník
-mind-boggling=ohromující/neuvěřitelný
-abolish=zrušit/odstranit
-parsimony=(přílišná) šetrnost/lakomost
-heinous=hnusný/ohavný/odporný
-repugnant=odpudivý/odporný
-disgusting=nechutný/odporný
-premeditate=promyslet/uvážit
-slip=štěrbina/ruzparek/rozříznout
-vest=tílko/vesta/udělit/propůjčit
-rapport=vztah/vzájemné porozumění
-tractable=zvladatelný/poddajný
-divulge=prozradit/vyzradit
-ostracize=vyloučit ze společnosti
-cast aside=odvrhnout/odhodit
-hegemony=uspořádání nadvlády
-incriminate=poukozvat na/usvědčovat/obvinit
-carousel=kolotoč
-trailblazer=průkopník/pionýr
-zeitgeist=duch doby
-covet=prahnout/bažit
-long/yearn=dychtit/toužit
-dub=přezdívat
-revile=zlořečit/spílat
-sorority=sesterstvo
-cuss=nadávat komu/zaklít
-decease=skon/smrt/zesnout
-gratuitous=bezdůvodný/neopodstatněný
-assail=napadat/kritizovat
-attacker/assailant=útočník
-holster=pouzdro (na pistoli/přístroj)
-beneath=pod něčím
-twirl=točit (se)/otáčet (se)
-flick=mihnout se/kmitnout/švihnout
-corroborate=potvrdit/dosvědčit
-lemming=lumík
-chisel=dláto/otesávat/ošulit
-pretence
-lineal
-kinship
-kin
-due process
-due
-cope
-accrue
-article
-demonstrative pronoun
-neuter
-declension
-predicate
-piker
-septum
-pleasantry
-convulsion
-accede
-interloper
-gnarly
-insult to the injury
-ravening
-hatcher
-bludgeon
-misnomer
-expenditure
-paroxysm
-ravish
-approprium
-lament
-astood
-soothsayer
-delve
-berate
-prodigious
-contraption
-confer
-bordering
-thaw
-penninsula
-masquerade
-uterus
-cussing
-jarring
-confluence
-misconstrued
-unified
-hanker
-buoy
-fry
-minified
-cessate
-sham
-flank
-binge
-mired
-mire
-quintessential
-teethering
-furbish
-wrongdoer
-misfortune
-rabble-rouser
-deliberation
-rehearse
-artery
-interrogation
-investigation
-abbot
-adulterated
-unadulterated
-autochthonous
-evince
-vantage
-multitude
-whereby
-culled
-cull
-rumble
-adjutant
-ingress
-tilth
-spectacle
-spectacular
-pathetic
-presumably
-conciliation
-upshoot
-explicate
-lantern
-instate
-reinstate
-congeal
-pedigree
-conciliatory
-presumptuous
-deprecation
-razz
-itinerary
-tote
-flutings
-insipit
-resentment
-sleight
-polity
-excavation
-dictation
-grouse
-barn
-put up with
-digraph
-twitch
-deterritorialization
-latent
-quell
-antinomy
-opacity
-despondent
-nascent
 bloke
 allege
 flagellate
@@ -406,7 +207,6 @@ chiselled
 intransigent
 mouthpiece
 parable
-flimsy
 trivia
 clad
 blithely
@@ -441,4 +241,37 @@ sully
 unsullied
 skank
 skanky
+mansion
+capricious
+squelch
+deprecate
+condemn
+prune
+striek
+streik
+plaster
+poppers
+conceided
+tentative
+renunciation
+tailsman
+stern
+vestige
+province
+harness
+impediment
+engulf
+disfigure
+destitude
+jurry
+slouch
+rumble
+marble
+carrige
+cartridge
+dial
+sudden
+mason
+peddle
+peddler
 
