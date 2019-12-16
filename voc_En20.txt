@@ -1,54 +1,54 @@
-pejorative-hanlivy
-impeccable-bezvadny/dokonaly/neschopny hresit
-gratuity-spropitne
-immolate-obetovat (obradne)/zabit znicit ohnem
-semblance-zdani/podobnost
-dribble-kapat/slintat/troska/krapet
-alimony-vyzivne
-trim-upraveny/uhledny
-restitute-vratit puvodnimu majiteli
-mediocrity-prumernost/tuctovost
-plunder-rabovat/drancovat
-intendant-reditel/spravce
-squad-druzstvo/ceta/komando
-precaution-opatreni/opatrnost/prevence
-expletive-zakpleni/sproste slovo/slovni vypln
-exclamatory-zvolavaci(veta)/kriklavy/rvavy
-drivel-blabol/zvasty/zvanit
-explicative-vysvetlujici/objasnujici
-bracket-zavorka/druh/trida
-impregnable-nedobytny/nenapadnutelny
-predicable-prisouditelny/o cem lze neco tvrdit
-naught-nula/nic/nicota
-indubitable-nepochybny
-raft-vor/pram/raft
-otiose-zbytecny/plany/bezucelny
-assent-souhlasit/prisvedcit
-hilarity-veselost/veseli
-hilarious-legraceni/k popukani
-alleged-udajny/domnely
-stock-akcie/cenne papiry/zasoby/sklad
-conveyor-dopravce/dopravnik/transporter
-unyielding-neoblomny/nepoddajny
-congenital-vrozeny
-laudable-chvalihodny/obdivuhodny
-arduous-narocny/obtizny/svizelny
-toot-zatroubit/hlasat
-allude-zmininovat se/narazet
-bum-flakac/tulak/zadek
-oafish-hulvátský
-gravel-štěrkopísek
-smite-udeřit/uhodit
-balm-balzám/vonný olej
-godspeed-hodně štěstí/bůh tě provázej!
-chaste-cudný
-polit-politické zřízení/občanský řád
-emanation-emanace/vyzařování
-estrange-odcizit se
-commandeer-rekvírovat/zabrat
-dictum-rčení/výrok
-ethereal-éterický/nadpozemský
-coo-vrkat/cukrovat
-respite-oddech/úleva
-abstruse-nesrozumitelný/obtížně pochopitelný
-obtrusion-vnucování se
+pejorative=hanlivy
+impeccable=bezvadny/dokonaly/neschopny hresit
+gratuity=spropitne
+immolate=obetovat (obradne)/zabit znicit ohnem
+semblance=zdani/podobnost
+dribble=kapat/slintat/troska/krapet
+alimony=vyzivne
+trim=upraveny/uhledny
+restitute=vratit puvodnimu majiteli
+mediocrity=prumernost/tuctovost
+plunder=rabovat/drancovat
+intendant=reditel/spravce
+squad=druzstvo/ceta/komando
+precaution=opatreni/opatrnost/prevence
+expletive=zakpleni/sproste slovo/slovni vypln
+exclamatory=zvolavaci(veta)/kriklavy/rvavy
+drivel=blabol/zvasty/zvanit
+explicative=vysvetlujici/objasnujici
+bracket=zavorka/druh/trida
+impregnable=nedobytny/nenapadnutelny
+predicable=prisouditelny/o cem lze neco tvrdit
+naught=nula/nic/nicota
+indubitable=nepochybny
+raft=vor/pram/raft
+otiose=zbytecny/plany/bezucelny
+assent=souhlasit/prisvedcit
+hilarity=veselost/veseli
+hilarious=legraceni/k popukani
+alleged=udajny/domnely
+stock=akcie/cenne papiry/zasoby/sklad
+conveyor=dopravce/dopravnik/transporter
+unyielding=neoblomny/nepoddajny
+congenital=vrozeny
+laudable=chvalihodny/obdivuhodny
+arduous=narocny/obtizny/svizelny
+toot=zatroubit/hlasat
+allude=zmininovat se/narazet
+bum=flakac/tulak/zadek
+oafish=hulvátský
+gravel=štěrkopísek
+smite=udeřit/uhodit
+balm=balzám/vonný olej
+godspeed=hodně štěstí/bůh tě provázej!
+chaste=cudný
+polit=politické zřízení/občanský řád
+emanation=emanace/vyzařování
+estrange=odcizit se
+commandeer=rekvírovat/zabrat
+dictum=rčení/výrok
+ethereal=éterický/nadpozemský
+coo=vrkat/cukrovat
+respite=oddech/úleva
+abstruse=nesrozumitelný/obtížně pochopitelný
+obtrusion=vnucování se

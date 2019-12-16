@@ -80,13 +80,13 @@ while true; do
     VOCABULARY_LINE=`echo "$VOCDATA" | sed -n "$LINEN"p`
     COIN_TOSS=1 #`echo "$(od -An -N4 -tu4 /dev/urandom) % 2 + 1" | bc`
 
-    EXPECTING=`echo "$VOCABULARY_LINE" | awk -v pick=$COIN_TOSS -F[-] '{print $pick}'` # this is the correct answer
+    EXPECTING=`echo "$VOCABULARY_LINE" | awk -v pick=$COIN_TOSS -F[=] '{print $pick}'` # this is the correct answer
     case $COIN_TOSS in
 	1)
-	    ASKING=`echo "$VOCABULARY_LINE" | awk -F[-] '{print $2}'`
+	    ASKING=`echo "$VOCABULARY_LINE" | awk -F[=] '{print $2}'`
 	    ;;
 	2)
-	    ASKING=`echo "$VOCABULARY_LINE" | awk -F[-] '{print $1}'`
+	    ASKING=`echo "$VOCABULARY_LINE" | awk -F[=] '{print $1}'`
 	    ;;
 	*)
 	    formated_output "ERROR: Something went really wrong. 1>&2"
