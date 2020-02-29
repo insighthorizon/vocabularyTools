@@ -215,7 +215,6 @@ comport
 allure
 lure
 spatter
-<<<<<<< HEAD
 warrant
 balderdash
 blather
@@ -315,4 +314,10 @@ hogwash
 grumble
 gastric
 litter
-
+dither
+totter
+placate
+implicate
+lice
+snicker
+emanate
