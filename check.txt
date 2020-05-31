@@ -30,6 +30,7 @@ pry=slídit/pátrat
 snoop=čmuchat/slídit/šmírovat
 abacus=počítadlo
 flap=třepat/plácat/klapka
+abnegate
 scrappy
 composure
 gospel
