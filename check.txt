@@ -30,13 +30,14 @@ pry=slídit/pátrat
 snoop=čmuchat/slídit/šmírovat
 abacus=počítadlo
 flap=třepat/plácat/klapka
-abnegate
-scrappy
-composure
-gospel
-drapery
-brink
-thump
+abase=ponížit/pokořit
+abnegate=vzdát se/zříct se
+scrappy=útržkovitý/nesouvislý
+composure=klid/rozvaha/vyrovnanost
+gospel=evangelium/slovo boží
+drapery=drapérie/závěs
+brink/verge=pokraj/okraj
+thump=rána/bušit/žuchnutí
 lumbering
 festooned
 ensnare
