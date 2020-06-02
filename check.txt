@@ -39,6 +39,7 @@ drapery=drapérie/závěs
 brink/verge=pokraj/okraj
 thump=rána/bušit/žuchnutí
 lumbering
+grovel
 festooned
 ensnare
 screech
