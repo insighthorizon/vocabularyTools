@@ -161,7 +161,6 @@ abroad
 extirpate
 creality
 bolt cutters
-trudge
 notion
 centenary
 splendour
@@ -414,7 +413,6 @@ bozo
 beguile
 beguiling
 profess
-trudge
 menial
 sizzle
 bandicoot
@@ -874,4 +872,43 @@ trudge
 stulify
 sled
 barnyard
+epitaph
+buck
+quag
+quagmire
+docile
+delapidate
+pelt
+dilapidate
+ascent
+ruse
+upmanship
+guffaw
+astroturf
+unbeholden 
+clobber
+thorax
+evergreen
+gullet
+snarl
+kitted
+stroller
+seep
+plantation
+superintendent
+awareness
+protract
+stocking cap
+imprescindible
+snark
+snarky
+tad
+tadpole
+belay
+belate
+vitriol
+concision
+plaintively
+ironclad
+surrogate
 
