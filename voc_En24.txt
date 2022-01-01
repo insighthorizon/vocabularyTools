@@ -1,0 +1,6 @@
+qualm=nevolnost/rozpak/pochybnost
+indisposition=nevolnost/neochota/nechuť
+ramification=větvení/následek
+guise=maska/přestrojení/vzezření
+confidant=důvěrník
+besides=kromě/vedle
