@@ -1,0 +1,30 @@
+die Musik-hudba
+das Schwimmbad-bazén
+das Krankenhaus-nemocnice
+das Kino-kino
+das Essen-jídlo
+der Tag-den
+der Film-film
+die Freizeit-volný čas
+jemand-někdo
+fernsehen-dívat se na televizi
+der Zug-vlak
+treffen-sejít se
+das Haus-dům
+die Zeitung-noviny
+die Diskothek-diskotéka
+das Mittagessen-oběd
+das Meer-moře
+die Arbeit-práce
+das Café-kavárna
+treffen-sejít se
+das Konzert-koncert
+das Finale-finále
+der Grüß-pozdrav
+die Scheiße-hovno
+der Brief-dopis
+das Theater-divadlo
+das Buch-kniha
+die Woche-týden
+
+

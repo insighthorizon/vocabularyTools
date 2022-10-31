@@ -1,0 +1,214 @@
+das Zimmer-pokoj
+das Arbeitszimmer-pracovna
+das Schlafzimmer-ložnice
+der Balkon-balkon
+das Bad-koupelna
+das Treppenhaus-schodiště
+das Wohnzimmer-obývací pokoj
+der Flur-chodba/předsíň
+die Terrasse-terasa
+der Raum-místnost
+der Hobbyraum-dílna
+der Keller-sklep
+
+umziehen-přestěhovat se
+ziemlich-dost/značně
+das Fenster-okno
+sogar-dokonce
+zufrieden-spokojený
+baden-koupat se
+
+der Kleiderschrank-šatník
+die Kleidung-oblečení
+die Kommode-komoda
+die Couch-gauč
+der Sessel-křeslo
+die Garderobe-šatník
+der Spiegel-zrcadlo
+der Esstisch-jídelní stůl
+der Vorhang-závěs
+das Bücherregal-police na knihy
+der Teppich-koberec
+der Schreibtisch-psací stůl
+für-pro/za
+das Regal-police
+welcher-který
+welche-která
+welches-které
+schauen-dívat se
+Chau mal...-podívej se...
+finden-najít/shledávat
+suchen-hledat
+meinen-mínit
+aussehen-vypadat
+der Arikel-člen
+der Definitartikel-člen určitý
+
+hässlich-ošklivý
+bequem-pohodlný
+unbequem-nepohodlný
+
+Gluck mal...-Koukni se...
+glücklich-šťastný
+das Leben-život
+der Main-Mohan
+
+Frankfurt am Main-Frankfurt nad Mohanem
+das Reihenhaus-řadov domek
+das WC-WC
+der Garten-zahrada
+die Garage-garáž
+der Quadratmeter-čtvereční metr
+ab ... frei-volný od ...
+die Miete-nájem
+die Nebenkosten-vedlejší náklady
+neben-vedle
+die Immobilien-nemovitosti
+ruhig-klidný
+die Stadt-město
+das Einfamilienhaus-rodinný domek
+der Fußboden-podlaha
+die Heizung-topení
+der Traum-sen
+der Traumhaus-vysněný dům
+fertig-připravený
+erledigt-hotový
+weil-protože
+das Bad/WC-koupelna s WC
+Miet...-nájemní...
+der Vertrag-smlouva
+der Vortrag-přednáška
+fest-pevný
+der Bungalow-chata
+der Bau-stavba
+der Neubau-novostavba
+einziehen-nastěhovat se
+der Komfort-pohodlí
+anrufen-zavolat
+rufen-volat
+das Dach-střecha
+eigen-vlastní
+ab sofort frei-volný okamžitě
+sofort-okamžitě
+die Tiefgarage-podzemní garáž
+der Aufzug-výtah
+der Stock/Stockwerke-poschodí
+die Gesellschaft-společnost
+beschränkter-omezený
+die Haftung-ručení
+verdienen-vydělávat
+der Hausmeister-domovník
+das Erdgeschoss-přízemí
+die Toilett-záchod
+spülen-spláchnout
+privat-soukromý
+die Ehe-manželství
+das Paar-pár
+ohne-bez
+das Duschbad-sprchový kout
+Was für...?-Které...?
+
+das Einkommen-příjem
+die Post-pošta
+der Postbeamte-poštovní úředník
+wenig-málo
+schlecht-špatný
+der Verkehr-doprava
+die Verbindung-spojení
+über-přez
+unter-pod
+trotzdem-přesto
+das Glück-štěstí
+vielleicht-možná
+der Arzt-lékař
+die Arzthelferin-zdravotní sestra
+günstig-výhodný
+außserhalb liegen-nacházet se mimo obec
+wollen-chtít
+eigentlich-vlastně
+ordentlich-pořádný
+bauen-stavět
+bezahlen-zaplatit
+das Stichwort-bod
+anschauen-podívat se
+die Ökologie-ekologie
+
+der Streit-spor
+informieren-informovat
+das Gericht-soud
+das Urteil-rozsudek
+der Vogel-pták
+das Fensterbrett-parapet
+füttern-krmit
+der Dreck-špína
+Dreck machen-znečistit
+die Wand-stěna
+außen-vnější
+
+aufhängen-pověsit
+der Krach-rámus
+draußen-venku
+der Hof-dvůr
+der Nachbar-soused
+das Appartment-garsoniéra
+
+verbieten-zakázat
+die Erlaubnis-povolení
+betreiben-provozovat
+die Ware-zboží
+herstellen-vyrábět
+das Tier-zvíře
+sonst-jinak
+grillen-grilovat
+die Antenne-anténa
+montieren-montovat
+nachts-v noci
+vorher-předem
+tun-dělat
+der Ärger-mrzutost
+das Hochhaus-výškový dům
+das Studentenheim-studentská kolej
+der Lärm-hluk
+das Ende-konec
+endlich-konečně
+bald-brzy
+
+der Strand-pláž
+der Urlaub-dovolená
+das Erlebnis-zážitek
+die Industrie-průmysl
+die Insel-ostrov
+der Schutz-ochrana
+das Gebiet-oblast
+sauber-čistý
+die Wiese-louka
+der Wald-les
+zerstört-zničený
+die Erholung-odpočinek
+direkt-přímý
+die Rezeption-recepce
+der Anbau-přístavba
+das Büro-kancelář
+buchen-rezervovat
+die Sonne-slunce
+der Wagen-vůz
+leihen-půjčit
+teigen-ukázat
+wirklich-skutečně
+wohl-asi/nejspíš
+gemütlich-útulný
+doch-přeci
+wählen-vybrat
+die Treppe-schod
+das Geschoss-poschodí
+der Stock-patro
+stehlen-krást
+der Schrank-skříň
+der Vertrag-dohoda
+dann-pak
+der Vermieter-pronajímatel
+die Vemietung-pronájem
+vorher-předem
+anbei-přiložený
+die Liste-seznam
+die Umgebung-okolí
