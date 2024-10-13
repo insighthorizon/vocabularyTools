@@ -4446,3 +4446,7 @@ floppy
 exorbitant
 accost
 acost
+creaky
+creak
+despondency
+perspicuous

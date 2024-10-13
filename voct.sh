@@ -31,7 +31,7 @@ fi
 # Next lines of code are for user interface formating
 COLS=`tput cols`
 ROWS=`tput lines`
-tput bold #set bold font
+#tput bold #set bold font
 formated_output()
 {
     MESSAGE=$1
@@ -59,8 +59,8 @@ time_to_die()
 }
 
 
-WALL=8 #number of items in vocabulary will not go bellow this value
-THICK=2 #number of consecutive valid answers needed to complete the item
+WALL=16 #number of items in vocabulary will not go bellow this value
+THICK=3 #number of consecutive valid answers needed to complete the item
 #when number of items in vocabulary goes down to $WALL, then to finish the learning all the items remaining in vocabulary must have $THICK right answers at once
 THICK_1=$(( $THICK - 1 ))
 
@@ -78,7 +78,7 @@ while true; do
     # extracting needed data from the file
     LINEN=`echo "$(od -An -N4 -tu4 /dev/urandom) % $NLINES + 1" | bc` # random line number
     VOCABULARY_LINE=`echo "$VOCDATA" | sed -n "$LINEN"p`
-    COIN_TOSS=1 #`echo "$(od -An -N4 -tu4 /dev/urandom) % 2 + 1" | bc`
+    COIN_TOSS=2 #`echo "$(od -An -N4 -tu4 /dev/urandom) % 2 + 1" | bc`
 
     EXPECTING=`echo "$VOCABULARY_LINE" | awk -v pick=$COIN_TOSS -F[=] '{print $pick}'` # this is the correct answer
     case $COIN_TOSS in
