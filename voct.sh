@@ -59,8 +59,8 @@ time_to_die()
 }
 
 
-WALL=16 #number of items in vocabulary will not go bellow this value
-THICK=3 #number of consecutive valid answers needed to complete the item
+WALL=12 #number of items in vocabulary will not go bellow this value
+THICK=2 # (thickness) number of consecutive valid answers needed to complete the item
 #when number of items in vocabulary goes down to $WALL, then to finish the learning all the items remaining in vocabulary must have $THICK right answers at once
 THICK_1=$(( $THICK - 1 ))
 
