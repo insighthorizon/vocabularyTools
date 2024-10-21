@@ -1,35 +1,89 @@
-die Freizeit-volný čas
+faulenzen=laze around
+der Friseur=hairdresser
+das Krankenhaus=hospital
+das Deck=deck
+der Film=film
+tauschen=to exchange
+der Spaziergang=the walk
+Montag=monday
+Dienstag=tuesday
+Mittwoch=wednesday
+Donnerstag=thursday
+Freitag=friday
+Samstag=saturday
+Sonntag=sunday
+das Bier=beer
+der Tee=tee
+der Wein=wein
+das Rindfleisch=beef
+das Schweinefleisch=pork
+das Hühnchen=chicken
+das Lamm=lamb
+der Fisch=fish
+der Fuß=foot
+das Bein=leg
+der Kopf=head
+der Arm=arm
+die Hand=hand
+der Finger=finger
+der Körper=body
+der Magen=stomach
+der Rücken=back
+die Brust=breast
+der Korb=basket
+der Brustkorb=chest
+die Krankenschwester=nurse
+der Angestellter=employee
+der Polizist=police officer
+der Koch=cook
+der Ingenieur=engineer
+der Arzt=doctor
+der Leiter=manager
+die Lehrerin=teacher
+der Programmierer=programmer
+der Verkzäufer=salesman
+früh=early
 
-faulenzen-lenošit
+https://www.ocr.org.uk/images/68532-vocabulary-list-by-topic.pdf
 
-die Musik-hudba
-
-willkommen-vítaný
-
-an Bord-na palubě
-
-das Schwimmbad-bazén
-
-die Bar-bar
-
-das Café-kavárna
-
-
-
-
-
-
-
-
-
-die Bibliothek-knihovna
-der Friseur-holič
-das Krankenhaus-nemocnice
-das Kino-kino
-können-moci
-das Deck-paluba
-der Film-film
-Tischtennis spielen-hrát stolní tenis
-tauschen-vyměnit
-der Spaziergang-procházka
-einen Spaziergang machen-jít na procházku
+ab from (e.g. time)
+ab und zu now and again
+Abend (abends) (in the) evening
+als/ wenn when (conj)
+bald (bis bald) soon (see you…soon!)
+bevor before
+damals then (= at that time)
+dann then (= at that time)
+endlich / zuletzt finally / at last
+erst (um) not until
+früh (früher) early (previously)
+gestern yesterday
+gewöhnlich usually
+heute today
+immer (noch) always (still)
+manchmal sometime(s)
+Mittag (mittags) midday (at midday)
+Mitte (mitten in) middle (in the middle of)
+Mitternacht midnight
+Monat (monatlich) month(ly)
+morgen tomorrow
+Morgen (morgens) (in the) morning
+nachdem after
+nachher afterwards
+Nachmittag (nachmittags) (in the) afternoon
+nächst following/next (e.g.day/week)
+neulich recently
+nicht mehr no longer
+nie never
+noch still (=even now)
+noch nicht not yet
+plötzlich suddenly
+schon already
+sobald as soon as
+sofort immediately
+täglich daily
+übermorgen day after tomorrow
+vorgestern day before yesterday
+vorher beforehand/ previously
+Vormittag (vormittags) morning (in the morning)
+zuerst at first 
